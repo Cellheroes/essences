@@ -1,0 +1,3768 @@
+[
+  {
+    "Class": "Barbarian",
+    "Item": "Obin's Many Fingers",
+    "Slot": "Off Hand",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear hurls 2 additional spears."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Steel Lamprey",
+    "Slot": "Off Hand",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now marks enemies for X seconds and heals you for Y% of the damage it causes to marked enemies."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Flesh Splitter",
+    "Slot": "Off Hand",
+    "Skill": "Cleave",
+    "Effect": "Cleave damage increased by 10%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Svot's Reach",
+    "Slot": "Main Hand",
+    "Skill": "Cleave",
+    "Effect": "Cleave now strikes in a full circle around you."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Virulent Fist",
+    "Slot": "Off Hand",
+    "Skill": "Cleave",
+    "Effect": "Enemies killed by Cleave will explode, inflicting X damage on all nearby enemies."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Dishonored Blade",
+    "Slot": "Off Hand",
+    "Skill": "Demoralize",
+    "Effect": "Demoralize duration increased by 30%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Maddening",
+    "Slot": "Main Hand",
+    "Skill": "Frenzy",
+    "Effect": "Movement speed increased by 15% while Frenzy is at its maximum stacks."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Lunatic Twin",
+    "Slot": "Main Hand",
+    "Skill": "Frenzy",
+    "Effect": "When Frenzy is fully stacked, each attack unleashes X damage to all enemies in front of you. Cannot occur more often than once every Y seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Hewer",
+    "Slot": "Main Hand",
+    "Skill": "Grab",
+    "Effect": "Grab now causes you to charge forward and grab the first enemy you hit. If you successfully grab an enemy, you will carry them for a short distance, damaging enemies you run though, before leaping into the air and slamming them into the ground, damaging and Slowing nearby enemies."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Ragecaller",
+    "Slot": "Main Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients is now also electrified, slowing enemy movement by 50% for 2 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Razorgrip",
+    "Slot": "Off Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "The range and damage of Hammer of the Ancients can now be increased by charging it up."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Stonefall",
+    "Slot": "Main Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients damage increased by 10%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Forgotten",
+    "Slot": "Off Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients now throws a giant hammer that damages enemies in its path and knocks them away. Picking up this hammer will reduce the remaining cooldown on Hammer of the Ancients"
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Remembered",
+    "Slot": "Off Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients now summons a Spirit of the Ancients who stuns all nearby enemies and then fights beside you for you for a while."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Paste and Powder",
+    "Slot": "Off Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients now randomly drops hammers in the targeted area multiple times."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Rending Bite",
+    "Slot": "Main Hand",
+    "Skill": "Lacerate",
+    "Effect": "Lacerate now inflicts Bleeding that deals X damage over 3 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Sellena's Iron",
+    "Slot": "Main Hand",
+    "Skill": "Leap",
+    "Effect": "Leap causes the ground to shake where you land, dealing X damage to all enemies in the area over 3 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Eager Maelstrom",
+    "Slot": "Main Hand",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind radius increased, but Whirlwind movement speed decreased."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "North Wind",
+    "Slot": "Main Hand",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind now also inflics a stacking Chill."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Broken Soul",
+    "Slot": "Off Hand",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker now increases Critical Hit Chance instead of Attack Speed."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Bitterwind",
+    "Slot": "Main Hand",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind now draws on the power of the wind to deal increased damage, while no longer reducing your Movement Speed."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Sundered Legacy",
+    "Slot": "Off Hand",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker now causes nearby enemies to Burn."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Luring Club",
+    "Slot": "Main Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients damage increased by X% against Stunned enemies."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Startler",
+    "Slot": "Off Hand",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients now strikes the ground multiple times, knocking enemies up into the air with each strike, but your movement speed is greatly decreased during the assault."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Impaler's Breath",
+    "Slot": "Chest",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now hurls a harpoon that knocks enemies away, damaging and Stunning them."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Charred Iron",
+    "Slot": "Chest",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now hurls a flaming spear that damages all enemies in its path and leaves a Burning trail."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Cracklefell",
+    "Slot": "Chest",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now hurls an electrified spear that damages and immobilizes all enemies in its path."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Crusher Rig",
+    "Slot": "Chest",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now hurls giant rocks, inflicting damage on all enemies in its path."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Hatred's Reach",
+    "Slot": "Shoulders",
+    "Skill": "Cleave",
+    "Effect": "Cleave range increased by 20%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Battlemaster's Helm",
+    "Slot": "Head",
+    "Skill": "Demoralize",
+    "Effect": "Demoralize is replaced with a war cry that increases all damage you and nearby allies inflict"
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Bestial Threat",
+    "Slot": "Head",
+    "Skill": "Demoralize",
+    "Effect": "Demoralize is replaced with a terrifying roar that damages all nearby enemies and Immobilizes them"
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Impending Slaughter",
+    "Slot": "Head",
+    "Skill": "Demoralize",
+    "Effect": "Demoralize is replaced with an intimidating shout that damages nearby enemies and decreases attack and movement speed."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Determination",
+    "Slot": "Pants",
+    "Skill": "Furious Charge",
+    "Effect": "Furious Charge can now be charged up to increase range and damage."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Screaming Fury",
+    "Slot": "Pants",
+    "Skill": "Furious Charge",
+    "Effect": "Furious Charge now charges to a location, damaging all nearby enemies and knocking them into the air. Also increases maximum charges to 2."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Tracker's Rage",
+    "Slot": "Chest",
+    "Skill": "Furious Charge",
+    "Effect": "All damage you deal is increased by 10% after activating Furious Charge."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Armor Caste",
+    "Slot": "Chest",
+    "Skill": "Furious Charge",
+    "Effect": "Furious Charge creates shock waves when colliding with walls, dealing X damage to nearby enemies and Stunning them for Y seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Rockspike",
+    "Slot": "Pants",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp now affects all nearby enemies and can be charged to increase range and damage."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Shattered Ground",
+    "Slot": "Pants",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp now produces an earthquake, continually damaging enemies in the area but no longer stunning them."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Weighted Brow",
+    "Slot": "Head",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp range increased by 20%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Compromise is Loss",
+    "Slot": "Pants",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp now rips open the ground, dealing damage to enemies in front of you. Maximum X charges."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Davin's Legacy",
+    "Slot": "Chest",
+    "Skill": "Hammer of the Ancients",
+    "Effect": "Hammer of the Ancients maximum charges increased by 1."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Animal Instinct",
+    "Slot": "Shoulders",
+    "Skill": "Leap",
+    "Effect": "Leap can now charge up to increase range and damage."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Howler's Lift",
+    "Slot": "Pants",
+    "Skill": "Leap",
+    "Effect": "Leap damage increased by 10%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Kar's Defiance",
+    "Slot": "Pants",
+    "Skill": "Leap",
+    "Effect": "Leap also grants you a shield that absorbs X damage."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Shocking Chaos",
+    "Slot": "Shoulders",
+    "Skill": "Leap",
+    "Effect": "Leap is now electrified, Stunning all nearby enemies where you land."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Haughty Behemoth",
+    "Slot": "Pants",
+    "Skill": "Leap",
+    "Effect": "Leap now knocks enemies into the air when you land."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Broken Grasp",
+    "Slot": "Shoulders",
+    "Skill": "Sprint",
+    "Effect": "Sprint also increases your dodge chance by 20%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Hell's Legacy",
+    "Slot": "Shoulders",
+    "Skill": "Sprint",
+    "Effect": "Sprint also leaves a trail of flames, dealing damage to enemies over 4 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Juggernaut's Plan",
+    "Slot": "Pants",
+    "Skill": "Sprint",
+    "Effect": "Sprint now causes you to run continuously, knocking away and damaging enemies in your path."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Second Breath",
+    "Slot": "Head",
+    "Skill": "Sprint",
+    "Effect": "Sprint duration increased by 30%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Spiritbreaker",
+    "Slot": "Head",
+    "Skill": "Sprint",
+    "Effect": "Sprint also leaves tornados in your path that deal X damage to any enemies they strike."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Swiftwing",
+    "Slot": "Pants",
+    "Skill": "Sprint",
+    "Effect": "Sprint now also increases movement speed of nearby allies."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Trembling",
+    "Slot": "Head",
+    "Skill": "Undying Rage",
+    "Effect": "Undying Rage also increases your Movement Speed by X%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Grinning Effigy",
+    "Slot": "Head",
+    "Skill": "Undying Rage",
+    "Effect": "Taking damage during Undying Rage now triggers a counterattack for X damage to all nearby enemies. Cannot occur more often than once every Y seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Ferocious Gale",
+    "Slot": "Chest",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind occasionally throws out tornadoes that deal X damage to any enemies they strike."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Gathering",
+    "Slot": "Chest",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind pulls in all enemies it damages."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Ydama's Cyclone",
+    "Slot": "Shoulders",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind damage increased by 10%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Five Fresh Claws",
+    "Slot": "Chest",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind now shreds armor, increasing all damage enemies take by X%, stacking up to five times."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Wreckfall ",
+    "Slot": "Shoulders",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind also reduces all damage you take by X% while channeling."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Berserker's Sanity",
+    "Slot": "Head",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker now also dispels effects which cause loss of control of your character."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Lasting Hate",
+    "Slot": "Head",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker duration increased by 30%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Coming Storm",
+    "Slot": "Shoulders",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker cooldown decreased by 15%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Doom of the Cowed",
+    "Slot": "Shoulders",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Activating Wrath of the Berserker now immediately reduces the Movement Speed of all nearby enemies by X%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Horns of Harrogath",
+    "Slot": "Head",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "During Wrath of the Berserker, slaying enemies increases your damage dealt by 1% for six seconds, up to a maximum of 10%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Loathsome Lamina",
+    "Slot": "Shoulders",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker also grants you a shield that absorbs damage."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Manifold Gore",
+    "Slot": "Chest",
+    "Skill": "Whirlwind",
+    "Effect": "Whirlwind damage increased by 10% for each Bleed on the enemy, up to a maximum of 30%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Ram’s Impasse",
+    "Slot": "Pants",
+    "Skill": "Furious Charge",
+    "Effect": "Furious Charge now causes you to drag enemies with you, but its maximum charges are now two."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Lonecastle ",
+    "Slot": "Shoulders",
+    "Skill": "Whirlwind",
+    "Effect": "Chance to block projectiles is increased by X% during Whirlwind."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Scalesunder ",
+    "Slot": "Pants",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now also shatters armor, increasing all damage enemies take by X% for Y seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Splitting Outbreak",
+    "Slot": "Head",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp maximum charges increased by X."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Temple of Battle",
+    "Slot": "Chest",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now sweeps spears from the left and the right, gathering all enemies within the area into a cluster in front of you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Torrential Refrain",
+    "Slot": "Off Hand",
+    "Skill": "Condemn",
+    "Effect": "Condemn now immediately detonates all of its damage on the enemies it hits."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Batterhythm ",
+    "Slot": "Off Hand",
+    "Skill": "Condemn",
+    "Effect": "Condemn damage increased by X% for every enemy hit, up to a maximum of Y% increased damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Zaynula's Last Hymn",
+    "Slot": "Off Hand",
+    "Skill": "Consecration",
+    "Effect": "Consecration also slows enemy movement by 30%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Air Splitter",
+    "Slot": "Main Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword instead unleashes a shock wave that can be charged up to increase range and damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Little Lance",
+    "Slot": "Main Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword instead causes you to surge forward with your sword up to three times, damaging all enemies in your path."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Proof From on High",
+    "Slot": "Main Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now chains enemies to a location, and pulls them to you when activated again."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Tumult",
+    "Slot": "Main Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now summons a storm of blades around it, continually damaging all nearby enemies, but can no longer be activated again for movement."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Forgotten Savior",
+    "Slot": "Main Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now calls flames from the heavens that Burn enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Gimcrack Buckler",
+    "Slot": "Off Hand",
+    "Skill": "Punish",
+    "Effect": "While Punish has granted you Hardened Senses, your blocks will trigger an explosion dealing x damage to all nearby allies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "The Bristle",
+    "Slot": "Main Hand",
+    "Skill": "Sacred Fire",
+    "Effect": "Sacred Fire now also hurls waves of flame, dealing x damage to all enemies in their path."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Bonebearer",
+    "Slot": "Off Hand",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare now consumes energy to reflect a beam of light that continually damages enemies in a direction, but no longer Blinds enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Constant Scrutiny",
+    "Slot": "Off Hand",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare now Blinds and damages all enemies around you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Bowyer's Remorse",
+    "Slot": "Off Hand",
+    "Skill": "Spinning Shield",
+    "Effect": "Spinning Shield now explodes when it strikes an enemy instead of returning, damaging all nearby enemies and knocking them away."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Pavise of Ten Wings",
+    "Slot": "Off Hand",
+    "Skill": "Spinning Shield",
+    "Effect": "Spinning Shield now spirtals around you and does not return."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Pouncing Shield",
+    "Slot": "Off Hand",
+    "Skill": "Spinning Shield",
+    "Effect": "Spinning Shield now bounces between several enemies instead of returning to you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Sinkhole Cross",
+    "Slot": "Off Hand",
+    "Skill": "Spinning Shield",
+    "Effect": "Spinning Shield hovers at a location, damaging enemies and reducing their movement speed."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Closing-Jaws",
+    "Slot": "Main Hand",
+    "Skill": "Sweep Attack",
+    "Effect": "Sweep Attack now pulls all enemies it strikes to you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Karawan's Catch",
+    "Slot": "Main Hand",
+    "Skill": "Sweep Attack",
+    "Effect": "Sweep Attack now consumes energy to continually damage all nearby enemies while you move."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Longpalm",
+    "Slot": "Main Hand",
+    "Skill": "Sweep Attack",
+    "Effect": "Sweep Attack now strikes all nearby enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Suspended Rule",
+    "Slot": "Main Hand",
+    "Skill": "Sweep Attack",
+    "Effect": "Sweep Attack now throws the flail, forming a cyclone that picks up nearby enemies and carries them away."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Blinding Wall",
+    "Slot": "Off Hand",
+    "Skill": "Condemn",
+    "Effect": "Condemn also unleashes bright light that Blinds enemies for one seconds."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Horn Splitter",
+    "Slot": "Main Hand",
+    "Skill": "Sacred Fire",
+    "Effect": "Sacred Fire now ignites enemies, Burning them over two seconds."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Blade Prison",
+    "Slot": "Main Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now calls down five electrified swords in a formation around you that arc, damaging nearby enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Lustre Titanic",
+    "Slot": "Off Hand",
+    "Skill": "Holy Banner",
+    "Effect": "Holy Banner now also reduces continual damage taken by allies by X%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Iron Suzerain",
+    "Slot": "Chest",
+    "Skill": "Condemn",
+    "Effect": "Condemn now continuously drags enemies toward you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Permanent Reproach",
+    "Slot": "Pants",
+    "Skill": "Condemn",
+    "Effect": "Condemn radius increased by 20%"
+  },
+  {
+    "Class": "Sader",
+    "Item": "Hard Censure",
+    "Slot": "Chest",
+    "Skill": "Condemn",
+    "Effect": "Condemn now calls down a thunderbolt from the heavens to a targeted location, dealing continuous damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Inhumed Plate",
+    "Slot": "Chest",
+    "Skill": "Conjuration of Light",
+    "Effect": "Conjuration of Light lasts longer and protects you and your allies within an area,"
+  },
+  {
+    "Class": "Sader",
+    "Item": "Justice Without Favor",
+    "Slot": "Chest",
+    "Skill": "Conjuration of Light",
+    "Effect": "Conjuration of Light surrounds you and your allies with holy fire that continually damages all nearby enemies, but no longer prevents damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Leggings of the Consigner",
+    "Slot": "Pants",
+    "Skill": "Conjuration of Light",
+    "Effect": "Damage you deal during Conjuration of Light grants you an absorb shield when it expires, equal to x% of all damage you dealt but no more than 20% of your maximum Life."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Wind-Blessed Pauldrons",
+    "Slot": "Shoulders",
+    "Skill": "Conjuration of Light",
+    "Effect": "Conjuration of Light duration increased by 30%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Shining Aster",
+    "Slot": "Shoulders",
+    "Skill": "Conjuration of Light",
+    "Effect": "Increases all damage you deal during Conjuration of Light by X%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Fortress Hermetic",
+    "Slot": "Chest",
+    "Skill": "Consecration",
+    "Effect": "Consecration radius increased by 20%"
+  },
+  {
+    "Class": "Sader",
+    "Item": "Many-Eyed Aegis",
+    "Slot": "Head",
+    "Skill": "Consecration",
+    "Effect": "Your Consecration now moves with you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Daybreak",
+    "Slot": "Chest",
+    "Skill": "Consecration",
+    "Effect": "Consecration now protects you and nearby party members, decreasing damage taken by X%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Besieger",
+    "Slot": "Chest",
+    "Skill": "Draw and Quarter",
+    "Effect": "Draw and Quarter periodically calls down a bombardment for X damage to nearby enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Bladed Jambeau",
+    "Slot": "Pants",
+    "Skill": "Draw and Quarter",
+    "Effect": "Draw and Quarter's mount becomes a fiery steed that Burns the ground and enemies, but no longer drags enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Cavalier's Courtwear",
+    "Slot": "Pants",
+    "Skill": "Draw and Quarter",
+    "Effect": "Draw and Quarter now damages enemies when you run over them and knocks them away, but it no longer drags enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Sivket's Advantage",
+    "Slot": "Shoulders",
+    "Skill": "Draw and Quarter",
+    "Effect": "Draw and Quarter duration increased by 30%"
+  },
+  {
+    "Class": "Sader",
+    "Item": "Squire's Trews",
+    "Slot": "Pants",
+    "Skill": "Draw and Quarter",
+    "Effect": "You can now carry a passenger during Draw and Quarter."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Flare-to-Mirror",
+    "Slot": "Pants",
+    "Skill": "Draw and Quarter",
+    "Effect": "Draw and Quarter is now electrified, damaging random nearby enemies and Stunning them if they are shocked three times."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Faith Ascendant",
+    "Slot": "Shoulders",
+    "Skill": "Falling Sword",
+    "Effect": "Deal 10% increased damage for a few seconds after using either stage of Falling Sword."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Arrowkeeper",
+    "Slot": "Head",
+    "Skill": "Holy Banner",
+    "Effect": "The inspiration from Holy Banner now moves with you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Retribution Ornament",
+    "Slot": "Head",
+    "Skill": "Holy Banner",
+    "Effect": "Holy Banner is replaced with a holy status that forces all nearby enemies to attack it."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Sudden Vallation",
+    "Slot": "Head",
+    "Skill": "Holy Banner",
+    "Effect": "Holy Banner instead plants a holy beacon that continually damages enemies with holy light."
+  },
+  {
+    "Class": "Sader",
+    "Item": "The Folly of Zakarum",
+    "Slot": "Shoulders",
+    "Skill": "Holy Banner",
+    "Effect": "Holy Banner duration increased by 30%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Barbed Council",
+    "Slot": "Shoulders",
+    "Skill": "Judgment",
+    "Effect": "Judgment now implodes after a short delay, drawing all nearby enemies to its center, but it no longer Slows movement or Stuns."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Cradle of Pebbles",
+    "Slot": "Shoulders",
+    "Skill": "Judgment",
+    "Effect": "Judgment instead summons a Guardian of Justice to fight for you."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Feathermail Coat",
+    "Slot": "Chest",
+    "Skill": "Judgment",
+    "Effect": "Judgment damage increased by 10%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Heaven Squints",
+    "Slot": "Shoulders",
+    "Skill": "Judgment",
+    "Effect": "Judgment now conjures a continuous beam of light from the heavens which moves under your control."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Pride is Bait",
+    "Slot": "Head",
+    "Skill": "Sacred Chain",
+    "Effect": "Enemies affected by your Sacred Chain are pulled together."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Public Penance",
+    "Slot": "Shoulders",
+    "Skill": "Sacred Chain",
+    "Effect": "Sacred Chain now throws frozen chains that deal more damage and do not break from damage, but have a shorter duration."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Spine of the Adversary",
+    "Slot": "Shoulders",
+    "Skill": "Sacred Chain",
+    "Effect": "Sacred Chain now also causes chained enemies to take a percentage of all damage taken by any other chained enemy, but no longer Stuns."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Equal Portions",
+    "Slot": "Pants",
+    "Skill": "Sacred Chain",
+    "Effect": "Sacred Chain no longer constrains enemies, instead forming a chain of flames between enemies which Burns other enemies that touch it."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Hungerfire Chiton",
+    "Slot": "Chest",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge also unleashes a shock wave at its destination, dealing X damage to all nearby enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Pillager's Greaves",
+    "Slot": "Pants",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge damage increased, and Shield Charge can be charged up to further increase damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Questor's Mien",
+    "Slot": "Head",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge maximum charges increased by 1"
+  },
+  {
+    "Class": "Sader",
+    "Item": "Shieldswathe",
+    "Slot": "Pants",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge now charges to a location where it forms a shielded circle that enemies and their projectiles cannot cross."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Zerratus Husk",
+    "Slot": "Head",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge now grants you a holy shield while charging that reflects projectiles back at enemies, dealing X damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Redeemer's Mettle",
+    "Slot": "Head",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare radius increased by 20%"
+  },
+  {
+    "Class": "Sader",
+    "Item": "Tactics and Secrets",
+    "Slot": "Pants",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare damage increased by 10%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Stare of Wroth",
+    "Slot": "Head",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare now Burns enemies for X damage over Y seconds."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Springback Chain",
+    "Slot": "Chest",
+    "Skill": "Spinning Shield",
+    "Effect": "Spinning Shield damage increased by 10%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Glower of the Recluse",
+    "Slot": "Head",
+    "Skill": "Sweep Attack",
+    "Effect": "When an enemy is Blinded, Immobilized, or Stunned, your Sweep Attack deals 15% more damage."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Akarat's Rebuke",
+    "Slot": "Chest",
+    "Skill": "Condemn",
+    "Effect": "Condemn now fills your soul with Valor's Retribution for six seconds, causing every Primary Attack to unleash a lightning bolt at your target, dealing damage to all nearby enemies."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Akkhan's Glory",
+    "Slot": "Shoulders",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword damage increased by 10%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Ammonis Cornua",
+    "Slot": "Head",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge also grants you 10% increased damage for three seconds."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Cuisse of Scorn",
+    "Slot": "Pants",
+    "Skill": "Condemn",
+    "Effect": "Condemn deals 10% increased damage for each harmful effect the enemy suffers from, up to a maximum of 30%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Chambers of Exhaustion",
+    "Slot": "Shoulders",
+    "Skill": "Sacred Chain",
+    "Effect": "Sacred Chain now Imprisons enemies in a targeted area. Enemies who attempt to leave will be Stunned."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Fitting Thunderhead",
+    "Slot": "Chest",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now also decreases enemy Movement Speed by X% for Y seconds."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Insulator ",
+    "Slot": "Pants",
+    "Skill": "Conjuration of Light",
+    "Effect": "Conjuration of Light now also reduces the duration of loss of control effects by X%."
+  },
+  {
+    "Class": "Sader",
+    "Item": "Simony’s End",
+    "Slot": "Head",
+    "Skill": "Sacred Chain",
+    "Effect": "When Sacred Chain ends, it now inflicts damage to all nearby enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "The Hungerer",
+    "Slot": "Off Hand",
+    "Skill": "Crossbow Shot",
+    "Effect": "Crossbow Shot will now pierce through enemies and strike additional enemies behind."
+  },
+  {
+    "Class": "DH",
+    "Item": "Hellbinder",
+    "Slot": "Off Hand",
+    "Skill": "Explosive Arrow",
+    "Effect": "Explosive Arrow now also causes enemies to Burn for X damage over 2 seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "War Generosity",
+    "Slot": "Main Hand",
+    "Skill": "Explosive Arrow",
+    "Effect": "Every X attacks with Explosive Arrow generates an explosion that knocks the enemy away. Players cannot be knocked away more often than 1 time every Y seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Puncta Obscura",
+    "Slot": "Off Hand",
+    "Skill": "Impale",
+    "Effect": "Impale now also causes enemies to Bleed for X damage over Y seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "The Thud",
+    "Slot": "Off Hand",
+    "Skill": "Impale",
+    "Effect": "Impale damage increased by X% to enemies with an active harmful effect."
+  },
+  {
+    "Class": "DH",
+    "Item": "Breath of Winter",
+    "Slot": "Main Hand",
+    "Skill": "Multishot",
+    "Effect": "Multishot now fires frost arrows that damage and Chill enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Flamespite",
+    "Slot": "Main Hand",
+    "Skill": "Multishot",
+    "Effect": "Multishot now fires flaming arrows that damage and Burn enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Pinpoint Overflow",
+    "Slot": "Main Hand",
+    "Skill": "Multishot",
+    "Effect": "Multishot now fires all arrows in a targeted direction and can strike the same enemy multiple times."
+  },
+  {
+    "Class": "DH",
+    "Item": "Dreadlands Requital",
+    "Slot": "Main Hand",
+    "Skill": "Rain of Vengeance",
+    "Effect": "Rain of Vengeance damage increased by 10%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Chainbolter",
+    "Slot": "Off Hand",
+    "Skill": "Sentry",
+    "Effect": "Bloody chains now also connect your Sentry turrets, causing X damage every 0.5 seconds to enemies touching them."
+  },
+  {
+    "Class": "DH",
+    "Item": "Nightwarden's Eye",
+    "Slot": "Off Hand",
+    "Skill": "Sentry",
+    "Effect": "Sentry damage increased by 10%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Vigilance",
+    "Slot": "Main Hand",
+    "Skill": "Sentry",
+    "Effect": "Sentry also launches a rocket every 2 attacks, dealing an additional X damage."
+  },
+  {
+    "Class": "DH",
+    "Item": "Watcher's Salvation",
+    "Slot": "Main Hand",
+    "Skill": "Sentry",
+    "Effect": "Sentry maximum number of active increased by 1."
+  },
+  {
+    "Class": "DH",
+    "Item": "Embermist",
+    "Slot": "Main Hand",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen cooldown decreased by x."
+  },
+  {
+    "Class": "DH",
+    "Item": "Shredder Vane",
+    "Slot": "Off Hand",
+    "Skill": "Spinning Chakram",
+    "Effect": "Chakram now orbits your location for several seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Blacktalon",
+    "Slot": "Off Hand",
+    "Skill": "Strafe",
+    "Effect": "Strafe now continually fires piercing bolts in a direction."
+  },
+  {
+    "Class": "DH",
+    "Item": "Disarray",
+    "Slot": "Off Hand",
+    "Skill": "Strafe",
+    "Effect": "Strafe instead throws explosive grenades, each damaging all nearby enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Turmoil",
+    "Slot": "Main Hand",
+    "Skill": "Strafe",
+    "Effect": "Strafe also launches homing rockets, each dealing X damage to a nearby enemy."
+  },
+  {
+    "Class": "DH",
+    "Item": "Unrelenting Furor",
+    "Slot": "Main Hand",
+    "Skill": "Strafe",
+    "Effect": "Strafe duration increased by 35%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Preferred Instrument",
+    "Slot": "Off Hand",
+    "Skill": "Knockback Shot",
+    "Effect": "After using Knockback Shot, your damage is increased by 10% for three seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Razorflight ",
+    "Slot": "Main Hand",
+    "Skill": "Impale",
+    "Effect": "Impale can now be charged, allowing you to throw multiple knives at once."
+  },
+  {
+    "Class": "DH",
+    "Item": "Buzzard on the Wing",
+    "Slot": "Main Hand",
+    "Skill": "Strafe",
+    "Effect": "During Strafe, your Movement Speed is increased by X%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Sjikar ",
+    "Slot": "Off Hand",
+    "Skill": "Strafe",
+    "Effect": "Strafe now fires piercing shots at nearby enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Boundless Ingenuity",
+    "Slot": "Head",
+    "Skill": "Daring Swing",
+    "Effect": "Maximum charges on Daring Swing increased by 1."
+  },
+  {
+    "Class": "DH",
+    "Item": "Chillwrath Mantle",
+    "Slot": "Shoulders",
+    "Skill": "Daring Swing",
+    "Effect": "Daring Swing now fires ice arrows at the ground, forming an icy path that continually damages and Chills."
+  },
+  {
+    "Class": "DH",
+    "Item": "Hunter-Gatherer",
+    "Slot": "Shoulders",
+    "Skill": "Escape",
+    "Effect": "Escape now launches X homing rockets at nearby enemies when activated, each dealing Y damage."
+  },
+  {
+    "Class": "DH",
+    "Item": "Bladewings",
+    "Slot": "Shoulders",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap maximum number of active increased by 2."
+  },
+  {
+    "Class": "DH",
+    "Item": "Helltrapper Cage",
+    "Slot": "Chest",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap damage increased by 10%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Inescapable Raptor",
+    "Slot": "Pants",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap becomes Frost Trap, damaging and Chilling enemies when it explodes."
+  },
+  {
+    "Class": "DH",
+    "Item": "Legguards of the Inevitable Inferno",
+    "Slot": "Pants",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap becomes Immolation Trap, Burning the ground and all nearby enemies when detonated."
+  },
+  {
+    "Class": "DH",
+    "Item": "Plate of Lethal Intent",
+    "Slot": "Chest",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap arming time decreased by 85%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Scrapdacks",
+    "Slot": "Pants",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap now scatters multiple mines that will explode when stepped on, but it can no longer have multiple charges."
+  },
+  {
+    "Class": "DH",
+    "Item": "Clutching Nails",
+    "Slot": "Pants",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap now confines nearby enemies when triggered and increases all damage you deal to them."
+  },
+  {
+    "Class": "DH",
+    "Item": "Daye's Frightful Persona",
+    "Slot": "Head",
+    "Skill": "Knockback Shot",
+    "Effect": "Knockback Shot damage increased by 10%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Petahm's Secret Arsenal",
+    "Slot": "Chest",
+    "Skill": "Knockback Shot",
+    "Effect": "Knockback Shot becomes empowered with frost, leaving a frozen trail in its path that damages and Chills enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Untempered Hatred",
+    "Slot": "Chest",
+    "Skill": "Knockback Shot",
+    "Effect": "Knockback Shot now fires mortars into the sky that bombard enemies within range."
+  },
+  {
+    "Class": "DH",
+    "Item": "Cowl of Absolute Punishment",
+    "Slot": "Head",
+    "Skill": "Multishot",
+    "Effect": "Multishot damage increased by 10%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Cowl of Focused Hatred",
+    "Slot": "Head",
+    "Skill": "Multishot",
+    "Effect": "Multishot fires 4 additional arrows."
+  },
+  {
+    "Class": "DH",
+    "Item": "Hailfire",
+    "Slot": "Shoulders",
+    "Skill": "Multishot",
+    "Effect": "Multishot also launches 2 homing rockets, each dealing X damage."
+  },
+  {
+    "Class": "DH",
+    "Item": "Decisive Report",
+    "Slot": "Shoulders",
+    "Skill": "Multishot",
+    "Effect": "Multishot now knocks enemies away. This cannot affect players more often than one time every six seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Bombardment's Toll",
+    "Slot": "Shoulders",
+    "Skill": "Rain of Vengeance",
+    "Effect": "Rain of Vengeance instead summons bomb-dropping shadow beasts that damage and Stun enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Hailstone Shoulderss",
+    "Slot": "Shoulders",
+    "Skill": "Rain of Vengeance",
+    "Effect": "Rain of Vengeance becomes empowered with frost, damaging and Chilling enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Skystriker's Pauldrons",
+    "Slot": "Shoulders",
+    "Skill": "Rain of Vengeance",
+    "Effect": "Rain of Vengeance instead summons a flying shadow beast that continually drops bombs in an area."
+  },
+  {
+    "Class": "DH",
+    "Item": "Frozen Guardian's Sight",
+    "Slot": "Head",
+    "Skill": "Sentry",
+    "Effect": "Sentry becomes empowered with frost, damaging and Chilling enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Ysil's Contained Destruction",
+    "Slot": "Head",
+    "Skill": "Sentry",
+    "Effect": "Sentry now fires mortars that explode to damage all enemies in an area."
+  },
+  {
+    "Class": "DH",
+    "Item": "Assassin's Heritage",
+    "Slot": "Pants",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen instead throws an explosive grenade at a location."
+  },
+  {
+    "Class": "DH",
+    "Item": "Darkness's Embrace",
+    "Slot": "Chest",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen now creates thicker, longer-lasting smoke that maintains concealment while you are in it. However, you will be briefly visible each time you attack."
+  },
+  {
+    "Class": "DH",
+    "Item": "Jayn's Silent Retribution",
+    "Slot": "Pants",
+    "Skill": "Smoke Screen",
+    "Effect": "All your attacks will be Critical Hits for a few seconds after Smoke Screen's concealment ends."
+  },
+  {
+    "Class": "DH",
+    "Item": "Master Alchemist's Faulds",
+    "Slot": "Pants",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen instead throws a gas bomb at a location, continually damaging all nearby enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Suit Mordant",
+    "Slot": "Chest",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen now hurls an acid bomb that damages enemies continuously."
+  },
+  {
+    "Class": "DH",
+    "Item": "Spreading Shroud",
+    "Slot": "Chest",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen now throws a smoke bomb at a targeted location, dealing continuous damage and greatly reducing vision for enemies that remain in the area."
+  },
+  {
+    "Class": "DH",
+    "Item": "Shadowstalker's Spaulders",
+    "Slot": "Shoulders",
+    "Skill": "Spinning Chakram",
+    "Effect": "Spinning Chakram maximum charges increased by 1."
+  },
+  {
+    "Class": "DH",
+    "Item": "Slayer's Breeches",
+    "Slot": "Pants",
+    "Skill": "Spinning Chakram",
+    "Effect": "Enemies hit by Chakram will suffer 4% additional damage if hit again by Chakram within a short time, stacking up to 5 times."
+  },
+  {
+    "Class": "DH",
+    "Item": "Cuirass of the Death Watch",
+    "Slot": "Chest",
+    "Skill": "Strafe",
+    "Effect": "Strafe damage increased by 10%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Coff's Unrelenting Fury",
+    "Slot": "Pants",
+    "Skill": "Vengeance",
+    "Effect": "During Vengeance, every 2 Primary attacks will cause you to launch 1 additional rocket that deals X damage to a nearby target."
+  },
+  {
+    "Class": "DH",
+    "Item": "Heart of Vengeance",
+    "Slot": "Chest",
+    "Skill": "Vengeance",
+    "Effect": "Vengeance cooldown decreased by 15%."
+  },
+  {
+    "Class": "DH",
+    "Item": "Vision of the Lost",
+    "Slot": "Head",
+    "Skill": "Vengeance",
+    "Effect": "During Vengeance, each defeated enemy increases the remaining duration of Vengeance by 0.2 seconds, up to a maximum increase of 2.4 seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Murdermost",
+    "Slot": "Head",
+    "Skill": "Vengeance",
+    "Effect": "Vengeance now increases your critical strike chance by X% but causes you to lose Y% of your Life every second."
+  },
+  {
+    "Class": "DH",
+    "Item": "Scatter Mask",
+    "Slot": "Head",
+    "Skill": "Vengeance",
+    "Effect": "Activating Vengeance now immediately deals X damage to all nearby enemies and causes them to flee in Fear for Y seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Hawra's Heave-Under",
+    "Slot": "Head",
+    "Skill": "Daring Swing",
+    "Effect": "Daring Swing also increases your Movement Speed by 30% for three seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "The Potboiler",
+    "Slot": "Pants",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap now places more durable traps that trigger when you take damage."
+  },
+  {
+    "Class": "DH",
+    "Item": "Reverberant Doublet",
+    "Slot": "Chest",
+    "Skill": "Knockback Shot",
+    "Effect": "Knockback Shot now fires an arrow that Immobilizes enemies."
+  },
+  {
+    "Class": "DH",
+    "Item": "Shredbank",
+    "Slot": "Shoulders",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap now deals 20% increased damage to enemies suffering loss of control."
+  },
+  {
+    "Class": "DH",
+    "Item": "Abundant Intangibles",
+    "Slot": "Head",
+    "Skill": "Escape",
+    "Effect": "Escape now makes you invisible for X seconds."
+  },
+  {
+    "Class": "DH",
+    "Item": "Concentrated Coldness",
+    "Slot": "Pants",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen now throws an ice bomb at a targeted location, Chilling and dealing damage to all nearby enemies. Increases Smoke Screen’s maximum charges to X."
+  },
+  {
+    "Class": "DH",
+    "Item": "Hundred Striking Shadows",
+    "Slot": "Shoulders",
+    "Skill": "Multishot",
+    "Effect": "Multishot now also deals X% damage to shields."
+  },
+  {
+    "Class": "DH",
+    "Item": "Radella’s Lifebraid",
+    "Slot": "Chest",
+    "Skill": "Strafe",
+    "Effect": "Each time Strafe deals damage to an enemy, its damage against that enemy is increased by X% up to Y% for up to Z seconds."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Eye of the Storm",
+    "Slot": "Off Hand",
+    "Skill": "Cyclone Strike",
+    "Effect": "Cyclone radius increases by 20%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "Reaching Rebuke",
+    "Slot": "Off Hand",
+    "Skill": "Exploding Palm",
+    "Effect": "Exploding Palm now launches you at a location and strikes that area with a giant palm as you land, damaging all nearby enemies, but its cooldown is inreased."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Scolding Storm",
+    "Slot": "Off Hand",
+    "Skill": "Exploding Palm",
+    "Effect": "Exploding Palm is now icy and inflicts Chill."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Assemble the Wicked Tonfa",
+    "Slot": "Off Hand",
+    "Skill": "Exploding Palm",
+    "Effect": "Exploding Palm now gathers nearby enemies into a cluster directly in front of you. Maximum one charge."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Spokes of the Wheel",
+    "Slot": "Off Hand",
+    "Skill": "Flying Kick",
+    "Effect": "Flying Kick also temporarily increases all damage you deal by 10%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Respite's Sigh",
+    "Slot": "Off Hand",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary duration increased by 30%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "Rod of Echoes",
+    "Slot": "Main Hand",
+    "Skill": "Mystic Allies",
+    "Effect": "Mystic Allies cooldown decreased by 15%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Fleeting Soul Tonfa",
+    "Slot": "Main Hand",
+    "Skill": "Mystic Allies",
+    "Effect": "Mystic Allies now summons one spirit ally that rushes in a direction, dealing damage to all enemies it passes through and forcing all nearby enemies to attack it."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Dragon's Indignation",
+    "Slot": "Main Hand",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike now also continually Burns enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Ice Upon the Blossom",
+    "Slot": "Main Hand",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike turns to Ice damage with Chilling effect."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Spirit's Reach",
+    "Slot": "Main Hand",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike now places a runic circle inside which all enemies will be struck by your spirit allies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Pugilist's Presence",
+    "Slot": "Main Hand",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike now attacks repeatedly in the same direction, knocking back the enemy each time."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Fires of Peace",
+    "Slot": "Main Hand",
+    "Skill": "Shield of Zen",
+    "Effect": "Shield of Zen doesn't shield you anymore, but periodically deals damage to nearby enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Intervening Law",
+    "Slot": "Main Hand",
+    "Skill": "Shield of Zen",
+    "Effect": "Shield of Zen now causes you to charge to a target location, granting you and all nearby allies a shield that absorbs damage."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Power of Undulation",
+    "Slot": "Off Hand",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike now continually channels energy waves forward."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Roar of the Sea",
+    "Slot": "Off Hand",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike now quickly gathers energy and generates Wave Explosion."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Unshakeable Weight",
+    "Slot": "Main Hand",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike range increased by 20%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "Rattling Arm",
+    "Slot": "Off Hand",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike turns into a pneumatic ball that pulls in and continuously damages enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Arc of the Ascendants",
+    "Slot": "Main Hand",
+    "Skill": "Deadly Reach",
+    "Effect": "Deadly Reach now also has a 25% chance to make enemies vulnerable, increasing damage taken by 10% for two seconds."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Willbillow ",
+    "Slot": "Off Hand",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike now instantly unleashes a large blast of energy that damages enemies within the area."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Twitching Palm",
+    "Slot": "Off Hand",
+    "Skill": "Fists of Thunder",
+    "Effect": "Fists of Thunder’s first strike now becomes empowered with Lightning, emitting bolts that each deal X damage."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Unyielding Doctrine",
+    "Slot": "Main Hand",
+    "Skill": "Fists of Thunder",
+    "Effect": "Each time you deal damage with Fists of Thunder, you have a X% chance to be electrified, increasing your Primary Attack Speed by Y% for Z seconds."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Path of the Storm",
+    "Slot": "Pants",
+    "Skill": "Cyclone Strike",
+    "Effect": "Cyclone Strike also temporarily decreases all damage you take by 20%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Storm Spirit",
+    "Slot": "Chest",
+    "Skill": "Cyclone Strike",
+    "Effect": "Cyclone Strike now generates a powerful tornado that continually damages all nearby enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Tempest's Heart",
+    "Slot": "Chest",
+    "Skill": "Cyclone Strike",
+    "Effect": "Cyclone Strike now causes you to become a vortex that pulls in enemies and then detonates, damaging and knocking away all nearby enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Typhlot Robe",
+    "Slot": "Chest",
+    "Skill": "Cyclone Strike",
+    "Effect": "Cyclone Strike now creates a sandstorm that reduces enemy vision and deals damage."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Crippling Insight",
+    "Slot": "Head",
+    "Skill": "Exploding Palm",
+    "Effect": "Maximum charges of Exploding Palm increased by 1."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Numb Realization",
+    "Slot": "Head",
+    "Skill": "Exploding Palm",
+    "Effect": "Exploding Palm Bleed effect now has a X% chance to be detonated by other attacks."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Starving Mosquito",
+    "Slot": "Pants",
+    "Skill": "Flying Dragon",
+    "Effect": "Flying Dragon damage increased by X% for each enemy hit, up to a maximum increase of Y%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Grace's Bounty",
+    "Slot": "Pants",
+    "Skill": "Flying Kick",
+    "Effect": "Flying Kick becomes Spinning Kick, damaging all nearby enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Mantle of the Crane",
+    "Slot": "Shoulders",
+    "Skill": "Flying Kick",
+    "Effect": "Flying Kick range increased by 20%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "Momentum's Flow",
+    "Slot": "Pants",
+    "Skill": "Flying Kick",
+    "Effect": "Flying Kick now unleashes a series of kicks at enemies in a direction, with the final kick knocking enemies away."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Tiger's Flight",
+    "Slot": "Pants",
+    "Skill": "Flying Kick",
+    "Effect": "Flying Kick now generates a flaming tornado that damages enemies in its path."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Tottering Tower",
+    "Slot": "Pants",
+    "Skill": "Flying Kick",
+    "Effect": "Flying Kick now Stuns enemies and can be charged to unleash a more powerful blow."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Freedom's Gale",
+    "Slot": "Shoulders",
+    "Skill": "Imprisoned Fist",
+    "Effect": "Imprisoned Fist now knocks surrounding enemies into the air and Stuns them, but no longer Immobilizes."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Isolation's Path",
+    "Slot": "Pants",
+    "Skill": "Imprisoned Fist",
+    "Effect": "Imprisoned Fist maximum charges increased by 1."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Rising Tide",
+    "Slot": "Shoulders",
+    "Skill": "Imprisoned Fist",
+    "Effect": "Imprisoned Fist now causes you to leap through the air with electricity, damaging and Immobilizing nearby enemies where you land."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Endless Trial",
+    "Slot": "Shoulders",
+    "Skill": "Imprisoned Fist",
+    "Effect": "Imprisoned Fist now continuously launches punches in a direction you can change while channeling. Using Imprisoned Fist will slowly consume its energy, which will recover while Imprisoned Fist is not in use."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Disciplined Respite",
+    "Slot": "Chest",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary cooldown decreased by 15%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "Empathy's Blessing",
+    "Slot": "Head",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary is now Blessed Sanctuary, increasing all damage done by you and your allies while within the circle."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Judgment's Watch",
+    "Slot": "Head",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary now continually damages all enemies within it, but no longer protects you or your allies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Solace of the Peaks",
+    "Slot": "Head",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary becomes a chilling circle, continually damaging and Chilling enemies within it, but not longer protecting you and your allies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Tranquility's Gaze",
+    "Slot": "Head",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary now Stuns and damages enemies that enter or exit the circle, but no longer protects you or your allies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Companion's Melody",
+    "Slot": "Pants",
+    "Skill": "Mystic Allies",
+    "Effect": "Mystic Allies duration increased by 25%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "The Open Mind",
+    "Slot": "Head",
+    "Skill": "Mystic Allies",
+    "Effect": "Mystic Allies damage increased by 10%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Fusing Crown",
+    "Slot": "Head",
+    "Skill": "Mystic Allies",
+    "Effect": "Mystic Allies now protect you, taking X% of your incoming damage."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Breath of Incense",
+    "Slot": "Chest",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike can now trigger the Exploding Palm explosion when it kills Bleeding enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Discipline's Weight",
+    "Slot": "Shoulders",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike damage increased by 10%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "The First Wind",
+    "Slot": "Shoulders",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Each hit of Seven-Sided Strike also temporarily decreases all damage you take by 3.5%, stacking up to 7 times."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Enlightenment's Blessing",
+    "Slot": "Chest",
+    "Skill": "Shield of Zen",
+    "Effect": "During Shield of Zen, your movement speed is increased by 25% and you can move unhindered through enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Purity's Thought",
+    "Slot": "Head",
+    "Skill": "Shield of Zen",
+    "Effect": "Shield of Zen now also dispels a harmful effect from the target."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Pacific Pledge",
+    "Slot": "Chest",
+    "Skill": "Shield of Zen",
+    "Effect": "Taking damage during Shield of Zen has a chance to trigger a counterattack dealing X damage to all nearby enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Chastising Radiance",
+    "Slot": "Pants",
+    "Skill": "Wave of Light",
+    "Effect": "Wave of Light damage increased by 10%"
+  },
+  {
+    "Class": "Monk",
+    "Item": "Harmony's Song",
+    "Slot": "Chest",
+    "Skill": "Wave of Light",
+    "Effect": "Wave of Light range increased by 20%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Heaven's Bonds",
+    "Slot": "Shoulders",
+    "Skill": "Wave of Light",
+    "Effect": "Wave of Light now drops a golden bell from the sky, immobilizing all enemies in the area."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Radiant Sun",
+    "Slot": "Shoulders",
+    "Skill": "Wave of Light",
+    "Effect": "Wave of Light now summons an Echo Bell, inflicting continuous damage on all nearby enemies."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Shimmerlinn ",
+    "Slot": "Shoulders",
+    "Skill": "Wave of Light",
+    "Effect": "Wave of Light now releases a wave of energy that damages all enemies in its path and Burns them."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Resounding Soul",
+    "Slot": "Chest",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike damage increased by 10%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Fate Alight",
+    "Slot": "Shoulders",
+    "Skill": "Mystic Strike",
+    "Effect": "Mystic Strike also causes your next skill used within four seconds to deal 30% increased damage."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Gergel's Familiarity",
+    "Slot": "Pants",
+    "Skill": "Mystic Strike",
+    "Effect": "Mystic Strike now conjures a spirit ally to charge forward, damaging and slowing enemies in its path."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Ordered Obsidian",
+    "Slot": "Chest",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike now deals 20% increased damage to enemies suffering loss of control."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Resurgency ",
+    "Slot": "Head",
+    "Skill": "Mystic Allies",
+    "Effect": "Mystic Allies duration is now increased by 0.4 seconds after defeating an enemy, up to a maximum of four seconds."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Blazing Ablution",
+    "Slot": "Shoulders",
+    "Skill": "Wave of Light",
+    "Effect": "Wave of Light now places multiple golden bells that all resonate and deal damage to nearby enemies when you or your allies hit any of them with Primary Attacks."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Branding Bond",
+    "Slot": "Pants",
+    "Skill": "Mystic Strike",
+    "Effect": "Mystic Strike now causes you to move quickly in a direction, damaging all enemies in your path."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Budding Anew",
+    "Slot": "Head",
+    "Skill": "Seven-Sided Strike",
+    "Effect": "Seven-Sided Strike now also grants you a shield, absorbing X damage."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Stirring Titan",
+    "Slot": "Chest",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary now reduces enemy Movement Speed and Attack Speed in an area while you and your allies gain increased Movement Speed and Attack Speed."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Blight Maw",
+    "Slot": "Main Hand",
+    "Skill": "Bone Spear",
+    "Effect": "Bone Spear also poisons enemies hit for X damage over 3 seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Eel Tongue",
+    "Slot": "Main Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Bone Spirits damage increased by 10%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Arc of Misery",
+    "Slot": "Main Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Bone Spirits now bounces whenever it hits a wall."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Drifter’s Fare",
+    "Slot": "Off Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Bone Spirits now unleashes a powerful skull that wanders randomly through nearby enemies, dealing damage as it passes through them. Maximum X charges."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Pyre's Allure",
+    "Slot": "Off Hand",
+    "Skill": "Bone Wall",
+    "Effect": "Bone Wall can now be ignited with soulfire, dealing X damage over 8 seconds to nearby enemies."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Accounting for Weakness",
+    "Slot": "Main Hand",
+    "Skill": "Command Golem",
+    "Effect": "Command Golem now summons a skeletal golem that consumes and gains power from all nearby corpses, and which damages all enemies in its path as it leaps."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Beacon of the Led",
+    "Slot": "Off Hand",
+    "Skill": "Command Golem",
+    "Effect": "Command Golem damage increased by 10%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Desolatoria",
+    "Slot": "Main Hand",
+    "Skill": "Command Golem",
+    "Effect": "Command Golem now summons a molten golem that continually Burns all nearby enemies instead of forcing them to attack it or Stunning them."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Dominance from Dust",
+    "Slot": "Off Hand",
+    "Skill": "Command Golem",
+    "Effect": "Your bone golem will split into two smaller bone golems when it dies."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Priest's Grubknife",
+    "Slot": "Main Hand",
+    "Skill": "Command Golem",
+    "Effect": "Command Golem now summons a stone golem that throws boulders at enemies and rolls through enemies instead of leaping."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Life in Balance",
+    "Slot": "Off Hand",
+    "Skill": "Command Skeletons",
+    "Effect": "10% of all damage you take is taken by your skeletal champions instead."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Piercehammer",
+    "Slot": "Main Hand",
+    "Skill": "Command Skeletons",
+    "Effect": "Command Skeletons damage increased by 10%."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "The Prong",
+    "Slot": "Off Hand",
+    "Skill": "Command Skeletons",
+    "Effect": "Decreases time required to raise new skeletal champions by 30%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Clotburst",
+    "Slot": "Main Hand",
+    "Skill": "Corpse Explosion",
+    "Effect": "Corpse Explosion damage increased by 10%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Ten-Thorn",
+    "Slot": "Off Hand",
+    "Skill": "Corpse Lance",
+    "Effect": "Corpse Lance now collects the summoned projectile around you, until you activate Corpse Lance again to fire them all in a direction."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Thrash Jaw",
+    "Slot": "Main Hand",
+    "Skill": "Grim Scythe",
+    "Effect": "Grim Scythe now hurls the scythe in a direction, striking enemies in its path with continuous damage and knocking them away. Grim Scythe can no longer have multiple charges."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Welcome End",
+    "Slot": "Off Hand",
+    "Skill": "Skeletal Mage",
+    "Effect": "Skeletal Mage now summons a powerful grim reaper, but has a longer cooldown."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Vesperguard",
+    "Slot": "Off Hand",
+    "Skill": "Skeletal Mage",
+    "Effect": "Skeletal Mage now shoots continuous rays at enemies."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Baleful Trinity",
+    "Slot": "Off Hand",
+    "Skill": "Soulfire",
+    "Effect": "Soulfire now bounces to 1 additional target, but deals 30% decreased damage to subsequent targets."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Simulacrator",
+    "Slot": "Main Hand",
+    "Skill": "Wraith Form",
+    "Effect": "Wraith Form now also leaves an effigy behind that forces nearby enemies to attack it and then explodes for x damage."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Grave Cutter",
+    "Slot": "Main Hand",
+    "Skill": "Grim Scythe",
+    "Effect": "Grim Scythe now slices enemies in front of you several times, with the final swing inflicting a Bleed."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Spite-Fetor",
+    "Slot": "Off Hand",
+    "Skill": "Soulfire",
+    "Effect": "Soulfire now has a 25% chance to explode on hit, dealing damage to nearby enemies and causing them to Burn."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Communal Rib",
+    "Slot": "Main Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Bone Spirits has a X% chance to inflict Fear on enemies lasting Y seconds. Cannot Fear the same target more often than once every Z seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "One-Armed Devourer",
+    "Slot": "Off Hand",
+    "Skill": "Corpse Lance",
+    "Effect": "Corpse Lance now consumes nearby corpses to form a lance storm in the targeted area. The power of the storm is increased by the number of consumed corpses."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Covet Nothing",
+    "Slot": "Chest",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor now also damages nearby enemies when activated and increases their damage taken for a short time."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Flickering Warmth",
+    "Slot": "Chest",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor instead summons three bone spikes that orbit you and damage and enemies they strike."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Gravedirt's Weight",
+    "Slot": "Shoulders",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor now also grants immunity to all effects which knock you out of your position."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Graven Bulwark",
+    "Slot": "Pants",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor duration increased by 25%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Parting Gift",
+    "Slot": "Chest",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor now grants you and all nearby party members charges of damage immunity, each of which prevents all damage from a single hit."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Cloak of Quills",
+    "Slot": "Chest",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor now causes your summons to continuously damage nearby enemies, but no longer protects them."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Shared Service",
+    "Slot": "Shoulders",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor now reduces all continuous damage you take by X%.\n"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Chasm-Crosser",
+    "Slot": "Shoulders",
+    "Skill": "Bone Spikes",
+    "Effect": "Bone Spikes range increased by 20%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Hideous Dawning",
+    "Slot": "Head",
+    "Skill": "Bone Spikes",
+    "Effect": "Bone Spikes now also causes enemies to bleed for additional damage, but no longer Stuns them."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "No-Mouth Face",
+    "Slot": "Head",
+    "Skill": "Bone Spikes",
+    "Effect": "Bone Spikes no longer charges up and instead immediately summons three forward-moving spikes that knock enemies away."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Abnegation ",
+    "Slot": "Shoulders",
+    "Skill": "Bone Spikes",
+    "Effect": "Bone Spikes now also knocks enemies away."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Ever-Grasping Vestments",
+    "Slot": "Chest",
+    "Skill": "Bone Wall",
+    "Effect": "Bone Wall now summons a line of skeletal soldiers that charge forward in formation, damaging and knocking back enemies."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Exhumant's Backbone",
+    "Slot": "Chest",
+    "Skill": "Bone Wall",
+    "Effect": "Bone Wall instead summons a pillar of rotting corpses that knocks targets into the air, damaging them, and then Slows all nearby enemies."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Sacral Chausses",
+    "Slot": "Pants",
+    "Skill": "Bone Wall",
+    "Effect": "Bone Wall duration increased by 25%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "The Inviting Tomb",
+    "Slot": "Chest",
+    "Skill": "Bone Wall",
+    "Effect": "Bone Wall now creates a circular wall of bones that traps targets within it, but no longer has multiple charges."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Visitant's Sign",
+    "Slot": "Head",
+    "Skill": "Command Golem",
+    "Effect": "Command Golem duration increased by 20%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Inseverable Two",
+    "Slot": "Head",
+    "Skill": "Command Golem",
+    "Effect": "Your golem from Command Golem now takes X% of your incoming damage."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Coals for Eyes",
+    "Slot": "Head",
+    "Skill": "Command Skeletons",
+    "Effect": "Command Skeletons now causes your skeletal champions to explode at their destination, damaging all nearby enemies."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Crown of the Gilded Leash",
+    "Slot": "Head",
+    "Skill": "Command Skeletons",
+    "Effect": "Command Skeletons now raises a single powerful skeletal captain that can be ordered to whirlwind at a location."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Mirrorictus",
+    "Slot": "Head",
+    "Skill": "Command Skeletons",
+    "Effect": "Your skeletal champions are replaced with skeletal archers."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Lone Preserver",
+    "Slot": "Shoulders",
+    "Skill": "Corpse Explosion",
+    "Effect": "Corpse Explosion now also inflicts a stacking Chill which can Freeze enemies when stacked."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Rotspur",
+    "Slot": "Shoulders",
+    "Skill": "Corpse Explosion",
+    "Effect": "Corpse Explosion no longer detonates corpses, causing them instead to release blight on the area that poisons enemies for continual damage."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Surge and Stillness",
+    "Slot": "Shoulders",
+    "Skill": "Corpse Explosion",
+    "Effect": "Corpse Explosion now also causes corpses to pull themselves toward the nearest enemy before exploding."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Rozhin's Keening",
+    "Slot": "Pants",
+    "Skill": "Corpse Lance",
+    "Effect": "Corpse Lance damage increased by 10%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Studied Menace",
+    "Slot": "Head",
+    "Skill": "Corpse Lance",
+    "Effect": "Corpse Lance now causes enemies to decay, dealing X damage for Y seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "They Rest Everywhere",
+    "Slot": "Chest",
+    "Skill": "Corspe Explosion",
+    "Effect": "Corpse Explosion radius increased by 20%."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Guided by Maggots",
+    "Slot": "Pants",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse no longer decreases enemy vision, instead causing your minions within the area to frenzy, increasing their attack and movement speeds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Linger-Mantle",
+    "Slot": "Shoulders",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse duration increased by 30%"
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Mournful Destroyer",
+    "Slot": "Pants",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse now curses the ground in an area, causing enemies within it to take continual damage."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Soulchime",
+    "Slot": "Pants",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse now causes enemies to explode on death, but no longer decreases enemy vision."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Empty Pit",
+    "Slot": "Pants",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse now summons a cursed eye that forces nearby monsters to attack it."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Hissing Skin",
+    "Slot": "Pants",
+    "Skill": "Grim Scythe",
+    "Effect": "Grim Scythe now increases all damage you deal by X% for each enemy hit, up to Y%, for Z seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Skullveil",
+    "Slot": "Head",
+    "Skill": "Skeletal Mage",
+    "Effect": "Skeletal Mage duration increased by 20%."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Ziroco",
+    "Slot": "Shoulders",
+    "Skill": "Skeletal Mage",
+    "Effect": "Skeletal Mage damage increased by 10%."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Gallowsborn",
+    "Slot": "Chest",
+    "Skill": "Wraith Form",
+    "Effect": "Generate corpses as you move during Wraith Form."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Proximal Fear",
+    "Slot": "Pants",
+    "Skill": "Wraith Form",
+    "Effect": "Wraith Form now causes enemies you touch to flee in Fear and damages them."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Ethereal Boundary",
+    "Slot": "Chest",
+    "Skill": "Wraith Form",
+    "Effect": "Activating Wraith Form removes all effects which cause loss of control or decrease Movement Speed."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Black Cavalcade",
+    "Slot": "Shoulders",
+    "Skill": "Skeletal Mage",
+    "Effect": "Skeletal Mage damage is increased by 5% each time they defeat an enemy, up to a maximum of 30%."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Filth Spurns Squalor",
+    "Slot": "Chest",
+    "Skill": "Bone Wall",
+    "Effect": "Bone Wall now places a larger ethereal wall that continually damages enemies within and reduces their Movement Speed."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Greathelm of Deflection",
+    "Slot": "Head",
+    "Skill": "Command Golem",
+    "Effect": "Your Command Golem is now linked to you, equally splitting the duration of harmful effects between the both of you."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Ravening Silence",
+    "Slot": "Pants",
+    "Skill": "Grim Scythe",
+    "Effect": "Grim Scythe now triggers all continual damage on the targets it hits, causing them to instantly take the remaining damage."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Executive Discontent",
+    "Slot": "Shoulders",
+    "Skill": "Skeletal Mage",
+    "Effect": "Increases all damage you deal by X% for each Skeletal Mage you have active."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Gilded Nightmare",
+    "Slot": "Pants",
+    "Skill": "Grim Scythe",
+    "Effect": "If a target is killed within X seconds of being struck by Grim Scythe, it will inflict Y damage to all nearby enemies and cause them to flee in Fear for Z seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "The Maloccluse",
+    "Slot": "Head",
+    "Skill": "Bone Spikes",
+    "Effect": "Bone Spikes now creates pulsating bone spikes in a targeted location that continually damage enemies in the area."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Siltstrider",
+    "Slot": "Chest",
+    "Skill": "Bone Armor",
+    "Effect": "Bone Armor now deals continual damage to targeted enemies and produces corpses once the effect ends."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "The Aimless One",
+    "Slot": "Main Hand",
+    "Skill": "Arcane Torrent",
+    "Effect": "Arcane Torrent now launches missiles at random enemies around you."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Devastation",
+    "Slot": "Main Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind now summons a Tornado that damages enemies in a line. Also increases maximum Arcane Wind charges by 1."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Syldra's Fang",
+    "Slot": "Main Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind can no longer be charged up, and now unleashes an icy wind, damaging and chilling enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Unrepentant Gale",
+    "Slot": "Off Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Maximum Arcane Wind charges increased by 1."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Windshaper",
+    "Slot": "Main Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind now summons a Tornado that follows enemies and continually damages all enemies in its path."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Weathering Eye",
+    "Slot": "Off Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind now also applies a X% reduction to Movement Speed for Y seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Staggernick ",
+    "Slot": "Main Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind now knocks enemies up into the air with an updraft and Stuns them, but no longer charges up."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Devouring Void",
+    "Slot": "Off Hand",
+    "Skill": "Black Hole",
+    "Effect": "Black Hole moves forward a short distance, pulling in and damaging enemies as it travels."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Negation Blade",
+    "Slot": "Main Hand",
+    "Skill": "Black Hole",
+    "Effect": "Black Hole also absorbs nearby enemy projectiles."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Entropic Edge",
+    "Slot": "Main Hand",
+    "Skill": "Disintegrate",
+    "Effect": "Disintegrate damage increased by 10%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Electrospike",
+    "Slot": "Main Hand",
+    "Skill": "Electrocute",
+    "Effect": "Electrocute leaps to 3 additional enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Heart of the Storm",
+    "Slot": "Off Hand",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor becomes Storm Armor, continually damaging nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Icon of Synchronicity",
+    "Slot": "Off Hand",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor now also grants damage absorption to your nearby allies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Winter's Eye",
+    "Slot": "Off Hand",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor no longer absorbs damage, instead conjuring an ice storm around you that continually damages and Chills nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Halestone ",
+    "Slot": "Off Hand",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor now protects you with X charges of damage immunity that also Chills nearby enemies when they attack you."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "The Siphon",
+    "Slot": "Off Hand",
+    "Skill": "Lightning Nova",
+    "Effect": "Casting Lightning Nova temporarily increases your movement speed by 60%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Thunderbird's Bite",
+    "Slot": "Main Hand",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova damage increased by 10%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Force of Harakas",
+    "Slot": "Main Hand",
+    "Skill": "Magic Missile",
+    "Effect": "Magic Missile damage increased by 20%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Azkalor's Fire",
+    "Slot": "Off Hand",
+    "Skill": "Scorch",
+    "Effect": "Scorch damage increased by 10%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Charged Stigma",
+    "Slot": "Off Hand",
+    "Skill": "Electrocute",
+    "Effect": "Electrocute also increases your Primary Attack Speed by 6% for two seconds, stacking up to a maximum of five times."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Ol' Rustic",
+    "Slot": "Main Hand",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova also increases your Primary Attack Speed by 30% for three seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Alder Crystal",
+    "Slot": "Off Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind now also Freezes chilled enemies for X seconds. Cannot occur more often than once every Y seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Staff of Baying",
+    "Slot": "Main Hand",
+    "Skill": "Arcane Torrent",
+    "Effect": "Arcane Torrent now launches missiles ahead of you and can be channeled while moving."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Ninety-Nine Wild Arcana",
+    "Slot": "Pants",
+    "Skill": "Arcane Torrent",
+    "Effect": "Arcane Torrent damage increased by X%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Galebringer's Leggings",
+    "Slot": "Pants",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind damage increased by 10%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Cowl of the Abyss",
+    "Slot": "Head",
+    "Skill": "Black Hole",
+    "Effect": "Black Hole radius increased by 20%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Arcane Intensifiers",
+    "Slot": "Shoulders",
+    "Skill": "Disintegrate",
+    "Effect": "Disintegrate will fire a stronger instantaneous beam after a short delay."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Chaos Nexus",
+    "Slot": "Pants",
+    "Skill": "Disintegrate",
+    "Effect": "Disintegrate channels up to 3 additional beams at nearby enemies, each continually dealing X damage."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Kavil's Grand Revelation",
+    "Slot": "Pants",
+    "Skill": "Disintegrate",
+    "Effect": "Enemies killed by Disintegrate will explode, dealing X damage to all nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Pads of Protection",
+    "Slot": "Shoulders",
+    "Skill": "Disintegrate",
+    "Effect": "Disintegrate now fractures into a short-ranged cone."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Rime Mantle",
+    "Slot": "Shoulders",
+    "Skill": "Disintegrate",
+    "Effect": "Enemies killed by Ray of Frost will shatter, dealing damage to all nearby enemies and inflicting Chill."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Searing Judgement",
+    "Slot": "Shoulders",
+    "Skill": "Disintegrate",
+    "Effect": "Disintegrate now channels Fire, Burning enemies for additional damage over time."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Crystal Guards",
+    "Slot": "Pants",
+    "Skill": "Ice Crystal",
+    "Effect": "Ice Crystal cooldown decreased by 15%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Frostreaver's Garments",
+    "Slot": "Chest",
+    "Skill": "Ice Crystal",
+    "Effect": "Ice Crystal now summons a freezing crystal that inflicts greater damage over time and a stacking Chill."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Ellora's Fervor",
+    "Slot": "Chest",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova now hurls balls of Burning fire."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Regalia of the Archmage",
+    "Slot": "Chest",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova now hurls balls of Immobilizing arcane energy."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Zann Esu Elemental Weave",
+    "Slot": "Chest",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova now hurls balls of Chilling ice."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Quiet Downpour",
+    "Slot": "Chest",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova now launches a giant nova, bursting into smaller novae when activated again or when it arrives at its final destination."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Frostwalkers",
+    "Slot": "Pants",
+    "Skill": "Meteor",
+    "Effect": "Meteor now summons an icy meteor, dealing damage and covering the area with ice that deals additional damage and Chills enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Shoulderss of the Cataclysm",
+    "Slot": "Shoulders",
+    "Skill": "Meteor",
+    "Effect": "Meteor damage increased by 10%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Starcaller's Breeches",
+    "Slot": "Pants",
+    "Skill": "Meteor",
+    "Effect": "Meteor now continually damages enemies in an area, but no longer stuns."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Starcaller's Drapery",
+    "Slot": "Chest",
+    "Skill": "Meteor",
+    "Effect": "Meteor radius increased by 20%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Fragments Upon",
+    "Slot": "Pants",
+    "Skill": "Meteor",
+    "Effect": "Meteor now drops several meteorites in a direction, knocking enemies away and Stunning them."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Cryomancer's Helm",
+    "Slot": "Head",
+    "Skill": "Ray of Frost",
+    "Effect": "Ray of Frost range increased by 20%"
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Kyn's Cryoclasp",
+    "Slot": "Chest",
+    "Skill": "Ray of Frost",
+    "Effect": "Ray of Frost now unleashes a stronger instantaneous beam after a short delay, damaging and freezing all enemies in its path."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Robes of the Avalanche",
+    "Slot": "Chest",
+    "Skill": "Ray of Frost",
+    "Effect": "Ray of Frost now channels a blizzard around you, continually damaging and Chilling nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "The Enervators",
+    "Slot": "Shoulders",
+    "Skill": "Ray of Frost",
+    "Effect": "Ray of Frost now creates an ice shield each time it damages an enemy, absorbing X damage and stacking up to 10 times."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Waking Invocation",
+    "Slot": "Chest",
+    "Skill": "Ray of Frost",
+    "Effect": "Ray of Frost now creates an illusion that channels a beam of frost in the targeted direction."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Shiversent Stare",
+    "Slot": "Head",
+    "Skill": "Ray of Frost",
+    "Effect": "Ray of Frost now Freezes enemies for X seconds after taking damage from the ray six times."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Angmar's Repulsive Burden",
+    "Slot": "Shoulders",
+    "Skill": "Scorch",
+    "Effect": "Scorch will now knock enemies away."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Crown of Arcane Truths",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now launches an arcane orb that explodes when activated again or when it expires, damaging all nearby enemies. Damage and explosion radius grow as it travels."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Memory of Xiaoyu",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now conjures four flaming orbs that orbit around you and explode when they strike enemies, damaging and Burning all nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Phoenix Mantle",
+    "Slot": "Shoulders",
+    "Skill": "Scorch",
+    "Effect": "Scorch radius increased by 20%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Vaetia's Resourceful Countenance",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now launches an electric orb that stops travelling when it strikes the first enemy, and then continually electrocutes and Stuns nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Vision of the Frozen Path",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now launches a frozen orb that continually damages nearby enemies and Chills them."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Fireflurry",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now hurls a ball of magma that bursts when it strikes an enemy, creating a pool of magma that Burns and Stuns enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Csur's Fortutious Ward",
+    "Slot": "Shoulders",
+    "Skill": "Teleport",
+    "Effect": "Teleport now causes you to gain a shield that absorbs 3,271 damage."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Lyan's Resonant Wisdom",
+    "Slot": "Head",
+    "Skill": "Teleport",
+    "Effect": "Teleport now conjures a lightning cloud at your destination, dealing X damage to all nearby enemies over 2.5 seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Mask of Illusions",
+    "Slot": "Head",
+    "Skill": "Teleport",
+    "Effect": "Teleport now causes you to become invisible and leave behind a mirror image."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Riftdancer's Stride",
+    "Slot": "Pants",
+    "Skill": "Teleport",
+    "Effect": "Teleport now targets a location where it also damages all nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Time-Warped Cloth",
+    "Slot": "Pants",
+    "Skill": "Teleport",
+    "Effect": "Teleport can now be recast, transporting you back to your original location."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Extraction Harness",
+    "Slot": "Shoulders",
+    "Skill": "Teleport",
+    "Effect": "Teleport now also removes the last harmful effect applied to you."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Crushing Weight",
+    "Slot": "Head",
+    "Skill": "Teleport",
+    "Effect": "Teleport also increases your damage by 10% for three seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Galebrinde ",
+    "Slot": "Shoulders",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor also causes your Primary Attacks to decrease enemy Movement Speed by 40% for three seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Novel Castigation",
+    "Slot": "Pants",
+    "Skill": "Arcane Torrent",
+    "Effect": "Arcane Torrent also fires tracking missiles that seek out enemies, dealing damage."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Rampant and Inscrutable",
+    "Slot": "Chest",
+    "Skill": "Lightning Nova",
+    "Effect": "Lightning Nova now conjures a lightning orb that orbits you, firing chain lightning at your target when you use your Primary Attack."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Affinity Spiral",
+    "Slot": "Shoulders",
+    "Skill": "Meteor",
+    "Effect": "Meteor now deals X% increased damage to Frozen targets."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Frozen Wellspring",
+    "Slot": "Pants",
+    "Skill": "Meteor",
+    "Effect": "Meteor now calls down a blizzard that continually damages and Chills enemies in the area."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Nor the Hail-Nursed",
+    "Slot": "Chest",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor now also reduces damage you take by X%."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Prophet’s Corolla",
+    "Slot": "Head",
+    "Skill": "Slow Time",
+    "Effect": "Slow Time now blocks all enemy projectiles from entering or exiting."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Higher Coin",
+    "Slot": "Shoulder",
+    "Skill": "Mist-Touched",
+    "Effect": "Frenzied Finale: Zephyrs now last for 1.5 seconds, but when they dissipate they charge into enemies and explode dealing 120% + 62 damage to all nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Maarozhi Spine",
+    "Slot": "Off-Hand",
+    "Skill": "Mist-Touched",
+    "Effect": "All Zephyr damage is increased by 28.5%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sip of the Breath",
+    "Slot": "Off-Hand",
+    "Skill": "Mist-Touched",
+    "Effect": "Mist-touched Orbs also increase your Attack & Movement speed by 28.5% for 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Truth as treasure",
+    "Slot": "Legs",
+    "Skill": "Mist-Touched",
+    "Effect": "Mist-touched cooldown is reduced by 0.95s for every Skill you cast"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Windswept Promise",
+    "Slot": "Legs",
+    "Skill": "Mist-Touched",
+    "Effect": "Zephyrs now also increase your Attack Speed by 13.3% for each you control"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Vaporizer",
+    "Slot": "Legs",
+    "Skill": "Mist-Touched",
+    "Effect": "When a Zephyr dissipates, it no longer creates a Mist-touched Orb and instead leaves behind a Tide Pool. Dealing lightning damage within the pool will electrify it , dealing an additional 91% + 47 damage to all enemies within the pool"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Paean of Pools",
+    "Slot": "Main-Hand",
+    "Skill": "Wave Edge",
+    "Effect": "Wave Edge also conjures a Zephyr for 1.5 seconds after striking the same enemy 4 times"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Storm's Crest",
+    "Slot": "Main-Hand",
+    "Skill": "Wave Edge",
+    "Effect": "The final attack og a Wave Edge series calls down lightning on the enemy dealing 66% + 309 lightning damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "First of Many",
+    "Slot": "Main-Hand",
+    "Skill": "Wave Edge",
+    "Effect": "Wave Edge knocks an enemy airborne every 3 hits. Cannot occur to the same enemy player more than once every 4 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Insatiable Appetite",
+    "Slot": "Off-Hand",
+    "Skill": "Wave Edge",
+    "Effect": "Wave Edge increases your Primary Attack Speed by 9,5% for 3 seconds when it deals damage, up to a maximum of 28,5%."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Essence",
+    "Slot": "Gear",
+    "Skill": "Skill",
+    "Effect": "Effect"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Fiendfell",
+    "Slot": "Main-Hand",
+    "Skill": "Wind Edge",
+    "Effect": "Wind Edge becomes empowered every 6 seconds , causing your next attack to unleash a piercing wind that slices through enemies dealing 43% + 235 damage and shattering their armor, causing them to take 19% increased damage for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Fangdowse",
+    "Slot": "Main-Hand",
+    "Skill": "Wind Edge",
+    "Effect": "WInd Edge Critical Hits also shatter the enemies armor, increasing all Critical Hit Damage they take by 34.5% for 2 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "No Second Chances",
+    "Slot": "Off-Hand",
+    "Skill": "Wind Edge",
+    "Effect": "Wind Edge becomes empowered when you use a Skill, causing your next 2 Primary Attacks to deal 60% + 326 additional damage to nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Ripperjaws",
+    "Slot": "Off-Hand",
+    "Skill": "Wind Edge",
+    "Effect": "Wind Edge becomes empowered after using 3 skills, causing your next Primary Attack to release a rending gust, dealing 42% + 225 damage and causing enemies to bleed for 16% + 87 damage per second over 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Whispering Breeze",
+    "Slot": "Off-Hand",
+    "Skill": "Wind Edge",
+    "Effect": "When Wind Edge damages an enemy below 50% life, its rush cooldown is reduced to 1,5 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Footprints in the Abyss",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Surfing Zephyrs: Breaker now conjures 2 Zephyrs to ride the wave dealing 87% + 468 damage to enemies in their path"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Flaring Lighthouse",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Galebreaker: Breaker now causes you to dash forward, leaving a Zephyr in your wake and dealing 64% + 347 damage to enemies in your path. You also gain a shield that absorbs 194% + 1054 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Prolix Pair",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Twin Break: Breaker now conjures 2 Zephyrs that crash together on waves dealing 87% + 1225 damage and knocking back enemies in their path"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Waverider",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Breaking Stride: Breaker now causes you to dash forward, dealing 99% + 1409 damage and knocking back enemies in your path while also conjuring a Zephyr at your destination"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mistwalkers",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Levee Breaker: Breaker now makes you untargetable as you dash on a wave, dealing 80% + 1129 damage to enemies along your path and conjuring a Zephyr. The skill can be used again within 3 seconds without consuming a charge"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Hesitant Shore",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Ebb and Flow: Breaker now causes you to conjure a Zephyr at your current location and then causes you to rush in a targeted direction, increasing your damage done by 40% for 3 seconds. Using Breaker again, exiting the area or letting the effect expire returns you to your original location"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Bounteous Sigil",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker cooldown is reduced by 18.6%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Barnacle Plaque",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker maximum charges are increased by 1."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Depthsdrawn",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker also increases your damage by 19% for 4s"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Shroud of the Atoned",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker Cooldown is reduced by 0.16 seconds for every enemy you damage up to a maximum of 1,6 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mandate of Ksathra",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker also grants you a shield for 2 seconds, that absorbs 100% + 926 damage and makes you immune to the next loss of control effect you would suffer"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Essence",
+    "Slot": "Gear",
+    "Skill": "Skill",
+    "Effect": "Effect"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Hurricane Hitch",
+    "Slot": "Off-Hand",
+    "Skill": "Crosswinds",
+    "Effect": "Incessant Wind: Crosswind now empowers your edges with wind for 6 seconds, causing you and your Zephyrs Primary Attacks to unleash wind blades, dealing 42% + 585 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Cyclone's Call",
+    "Slot": "Off-Hand",
+    "Skill": "Crosswinds",
+    "Effect": "Dust Devil: Crosswinds is now channeled for up to 4 seconds and can be cast while moving, causing you and your Zephyrs to spin launching wind blades every 0,3 seconds at up to 5 nearby enemies, dealing 57% + 814 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Echoing Sky",
+    "Slot": "Off-Hand",
+    "Skill": "Crosswinds",
+    "Effect": "Heavy Winds: Crosswinds now causes you and your Zephyrs to launch wind blades dealing 117% + 1610 damage while also slowing enemies , reducing their movement speed by 70% for 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Coral Shank",
+    "Slot": "Off-Hand",
+    "Skill": "Crosswinds",
+    "Effect": "Crossfire: Crosswind now dashes forward firing 3 wind blades at nearby enemies that each deal 48% + 676 damage. The dash distance and the amount of wind blades increases as your movement speed increases. Every 10% increase grants an additional lade up to a maximum of 5."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Buckle-Cracker",
+    "Slot": "Off-Hand",
+    "Skill": "Crosswinds",
+    "Effect": "Shredwinds: Crosswinds now empowers you, causing your next Primary Attack to unleash a flurry of 5 wind blades each dealing 64% + 907 damage and shattering armor (3s?), increasing your damage against the affected enemy by 8% stacking up to 5 times"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Shriekworth",
+    "Slot": "Main-Hand",
+    "Skill": "Crosswinds",
+    "Effect": "Crosswinds Critical Hits cause 4 blades of wind to shatter off the target dealing 45% + 416 damage to enemies they hit. Cannot occur more often than once every 0.5 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Howling Anchor",
+    "Slot": "Legs",
+    "Skill": "Crosswinds",
+    "Effect": "Crosswinds also causes enemies to bleed dealing 16% + 225 damage for 5s"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mistral Guides",
+    "Slot": "Legs",
+    "Skill": "Crosswinds",
+    "Effect": "Crosswinds also increases the damage of your next skill by 48% for 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Legguards of Halit",
+    "Slot": "Legs",
+    "Skill": "Crosswinds",
+    "Effect": "Crosswinds also increase your Primary Attack Speed by 38% for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Charging Current",
+    "Slot": "Chest",
+    "Skill": "Vortex",
+    "Effect": "Watersprout: Vortex now conjures a waterspout at a target location for 5 seconds, continually dealing 65% + 910 damage to enemies while pulling them towards the center. Enemies successfully pulled to the center are knocked into the air. Cannot knockup the same enemy more than once every 3 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Overflow",
+    "Slot": "Chest",
+    "Skill": "Vortex",
+    "Effect": "Swirling Chaos: Vortex now causes geysers to erupt from the ground underneath random enemies every second, dealing 143% + 2032 damage and knocking them into the air. Cannot knockup the same enemy more than once every 4 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Glory to Ksathra",
+    "Slot": "Off-Hand",
+    "Skill": "Vortex",
+    "Effect": "Vortex also increases your Primary Attack Speed by 28,5% for 3s after hitting an enemy"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "The Shoal",
+    "Slot": "Shoulder",
+    "Skill": "Vortex",
+    "Effect": "Vortex also shatters enemy armor, increasing the damage they take by up to 28.5% for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Spiral Guidance",
+    "Slot": "Main-Hand",
+    "Skill": "Squall",
+    "Effect": "Gale Force: Squall is now channeled causing you and your Zephyrs to periodically unleash wind slashes dealing 67% + 945 damage to enemies in their path"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Harmonious Castill",
+    "Slot": "Main-Hand",
+    "Skill": "Squall",
+    "Effect": "Intangible Gale: Squall now makes you untargetable and causes you and your Zephyrs to Dash forward, damaging enemies in your path. Additionally, each active Zephyr that Dashes with you will increase your Primary Attack Speed by 15% for 1.5 seconds, up to a maximum of 45%."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "A thousand Dooms",
+    "Slot": "Main-Hand",
+    "Skill": "Squall",
+    "Effect": "Biting Wind: Squall now empowers you and your Zephyrs for 5 seconds, causing your Dash skills to deal an additional 92% + 1303 damage to enemies and shatter their armor, increasing the damage they take by 5% stacking up to 30%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Deep Redound",
+    "Slot": "Main-Hand",
+    "Skill": "Squall",
+    "Effect": "Thirsting Squall: Squall now causes you and your Zephyrs to dash forward, dealing 112% + 1586 damage to enemies in your path. If a Bleeding enemy is struck, they will take all remaining bleed damage instantly, refreshing Sqall's cooldown. You are immune to knockback during the dash."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Screaming Gale",
+    "Slot": "Main-Hand",
+    "Skill": "Squall",
+    "Effect": "Edge Dance: Squall now causes you to spin with your edges pulling in nearby enemies, dealing 60% + 851 damage and marking them. After 3 seconds, the mark erupts, dealing damage equal to 40% of the damage you dealt to them while they were marked"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Look Leeward",
+    "Slot": "Head",
+    "Skill": "Squall",
+    "Effect": "Squall now marks enemies for 3 seconds before it ruptures and slices through them dealing damage equal to 28.5% of the damage you dealt to them while marked"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Slippery Shell",
+    "Slot": "Chest",
+    "Skill": "Squall",
+    "Effect": "Squall also increases your damage by 8% for 5.7 seconds, stacking up to 3 times"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Essence",
+    "Slot": "Gear",
+    "Skill": "Skill",
+    "Effect": "Effect"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Unmoored Eyes",
+    "Slot": "Head",
+    "Skill": "Blade Dance",
+    "Effect": "Dancer's Chain: Blade Dance now throws your edges, impaling the into the first enemy they strike for 6 seconds, dealing 185% + 2609 damage and stunning them for 2 seconds. While your edges remain embedded in the target they cannot use dash skills and you can activate the skill again to dash behind the target dealing 101% +1436 damage to enemies along the path. You cannot be targeted during the dash."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Gloating Remora",
+    "Slot": "Head",
+    "Skill": "Blade Dance",
+    "Effect": "Crimson Dance: Blade Dance now unleashes a circular wind blade, dealing 86% + 1210 damage and causing enemies to bleed for 16% +230 damage per second over 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Pointed Song",
+    "Slot": "Head",
+    "Skill": "Blade Dance",
+    "Effect": "Sapping Wind: Blade Dance now throws your edges, impaling the into the first enemy they strike for 4 seconds, dealing 77% + 1088 damage while also sapping their power, decreasing their attack and movement speed by 30% and transferring that amount to you. If your blades remain embedded in the target for more than 2 seconds, they become stunned for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Stormlost's Visage",
+    "Slot": "Head",
+    "Skill": "Blade Dance",
+    "Effect": "Trawl Dance: Blade Dance now pulls in all nearby enemies, dealing 90% + 1282 damage and preventing them from using dash skills for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Flitter away",
+    "Slot": "Chest",
+    "Skill": "Blade Dance",
+    "Effect": "Blade Dance also increases your Primary Attack damage by 16% for 3 seconds, stacking up to 32%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Samilian Windbrush",
+    "Slot": "Off-Hand",
+    "Skill": "Blade Dance",
+    "Effect": "Blade Dance maximum charges increased by 1."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Immediate & Immaculate",
+    "Slot": "Off-Hand",
+    "Skill": "Blade Dance",
+    "Effect": "Blade Dance also increases your Critical Hit Chance by 19% for 3s whenit strikes an enemy"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Jagged Conch",
+    "Slot": "Off-Hand",
+    "Skill": "Blade Dance",
+    "Effect": "When Blade Dance hits an enemy it applies Wind Shackles for 3 seconds dealing 30% + 283 additional damage for every 5 attacks the enemy receives. Cannot occur more often than once every 0.3 seconds on the same enemy"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Anopsia Rising",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Flood Locus: Cascade now conjures a Zephyr to slam the ground at a targeted location pulling waves into them dealing 97% + 1372 damage and pulling in nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sacred Gasp",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Converging Currents: Cascade now conjures converging currents around you dealing 136% + 1932 damage and knocking nearby enemies into the air. The damage and the radius of the currents is increased for every Zephyr you control up to a maximum of 203% + 2881 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Dream and Drown",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Echoing Torrent: Cascade now empowers you and your Zephyrs attacks for 5 seconds, causing you to release waves at enemies you hit dealing 82% + 1159 damage to them and nearby enemies. Cannot occur more often than once every second"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sumptuous Swell",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Fathomless Tide: Cascade now unleashes bursts of water from you and your Zephyrs dealing 74% + 1046 damage every 1 second for 5 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Strident Bident",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Crushing Depths: Cascade now causes you and your Zephyrs to release a crushing wave dealing 102% + 1432 damage and stunning enemies for 3 seconds. Enemies suffering from the stun also take 30% additional damage from your next attack, removing the stun effect"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Vastwash",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Symphony of Water: Cascade now floods the ground, dealing 59% + 839 damage to enemies while empowering youand allies within, causing your skills to unleash waves that crash through enemies dealing 40% + 561 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Carrying Current",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Tide Pool: Cascade now unleashines crashing waves around you dealing 65% + 913 damage to all nearby enemies and leaving behind a Tide Pool. Enemies inside the pool have their Movement Speed reduced by 30%. If lightning damage is dealt within the pool it will be electrified and deal 91% + 1288 additional damage to all enemies within the pool (only once per second)"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Scowling Jetty",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Geyser Ring: Cascade now slams your edges into the ground, dealing 60% + 851 damage to nearby enemies and causing up to 4 geysers to erupt from beneath their feet dealing 140% +  1990 additional damage and knocking them up. Cannot knock up the same target more often than once every 4 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Reverent Sage",
+    "Slot": "Chest",
+    "Skill": "Cascade",
+    "Effect": "Cascade cooldown is reduced by 18.6%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Fade to Bronze",
+    "Slot": "Chest",
+    "Skill": "Cascade",
+    "Effect": "Cascade also causes enemies hit to become vulnerable taking 47.5% increased Critical Hit Damage for 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Blessed Ashet",
+    "Slot": "Chest",
+    "Skill": "Cascade",
+    "Effect": "Cascade also increases your Movement Speed by 40% for 3.8s when it hits an enemy."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Deserter's Pride",
+    "Slot": "Chest",
+    "Skill": "Cascade",
+    "Effect": "Cascade also increases your Primary Attack Speed by 30% for 5.7s"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Shining Undertow",
+    "Slot": "Chest",
+    "Skill": "Cascade",
+    "Effect": "Cascasde's Critical Hit Chance is increased by 38% against enemies below 50% life"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Zephyrguard",
+    "Slot": "Chest",
+    "Skill": "Flowing Strike",
+    "Effect": "Leading Strike: Flowing Strike now conjures a Zephyr that slashes enemies dealing 41% + 572 damage and stunning them for 2 seconds. You follow up the leading strike with a dash forward in a flourish of edge strikes dealing 106% + 1494 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Fluid Vestments",
+    "Slot": "Chest",
+    "Skill": "Flowing Strike",
+    "Effect": "Dispersion: Flowing Strike now causes you to dissipate into water, becoming briefly untragetable and upon reforming you conjure 2 Zephyrs and gain a shield that absorbs 195% +2756 damage for 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Paired Doublet",
+    "Slot": "Chest",
+    "Skill": "Flowing Strike",
+    "Effect": "Flash Point: Flowing Strike now hurls a bolt of lightning at a target dealing 87% + 1229 lightning damage and apllying a flash mark. Using the skill again will conjure 2 Zephyrs and together you all rush towards the flash mark and perform a powerful slash dealing 88% + 1236 lightning damage. Both the mark and the lightning slash will apply Shock status."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Memento Onus",
+    "Slot": "Chest",
+    "Skill": "Flowing Strike",
+    "Effect": "Fluid Movements: Flowing Strike now causes you to dash forward, dealing 66% + 935 damage to enemies in your path while also stunning them for 2 seconds., while also conjuring a Zephyr that deals 46% + 653 damage to all nearby enemies. If Flowing Strike lands a Critical Hit you will conjure an additional Zephyr"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Stolen Promise",
+    "Slot": "Chest",
+    "Skill": "Flowing Strike",
+    "Effect": "Usurper Strike: Flowing Strike now causes you to dash forward, dealing 200% + 2842 damage to enemies in your path. Hitting an enemy player will force them to turn their back to you and immobilize them for 3 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Spoils of Profanation",
+    "Slot": "Chest",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike now causes you to dash forward, conjuring several Zephyrs when you reach the end of your path."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Seafarer's Trows",
+    "Slot": "Legs",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike also grants you 19% increased damage for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Cruel Impetus",
+    "Slot": "Legs",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike also grants you way of the water for 3 seconds, increasing the damage of your next skill cast by 48%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "United Defiance",
+    "Slot": "Shoulder",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike conjures an additional Zephyr"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Safe Borders",
+    "Slot": "Shoulder",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike can now be used while siffering from Loss of Control and knockback effects, making you immune to their effects for 0,5 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Submerge in Shock",
+    "Slot": "Shoulder",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike also increases your Critical Hit Chance by 15,2% for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mantle of Splendor",
+    "Slot": "Shoulder",
+    "Skill": "Flowing Strike",
+    "Effect": "Flowing Strike also increases Skill damage by 12% for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Isolation's Grace",
+    "Slot": "Legs",
+    "Skill": "Tidal Rush",
+    "Effect": "Tidal Armor: Tidal Rush now commands a Zephyr you control to sacrifice itself for an ally to grant them a shield that absorbs 195% + 2625 damage and blocks projectiles"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Pure of Will",
+    "Slot": "Legs",
+    "Skill": "Tidal Rush",
+    "Effect": "Tidal Crush: Tidal Rush now commands your Zephyrs to charge with you to a target location dealing 157% + 2122 damage and stunning enemies in your path for 2 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Killer Mirage",
+    "Slot": "Legs",
+    "Skill": "Tidal Rush",
+    "Effect": "Zephry Rush: Tidal Rush now conjures 3 Zephyrs around you that last 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Fog Cutters",
+    "Slot": "Legs",
+    "Skill": "Tidal Rush",
+    "Effect": "Dancing Rush: Tidal Rush now causes you to perform a sequence of dashes between up to 3 Zephyrs, rach dealing X% + Y damage to enemies along your path and launching 2 water blades at nearby enemies each dealing X% + Y damage. You are immune to loss of control and knockback while dashing."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Occupational Hazard",
+    "Slot": "Head",
+    "Skill": "Tidal Rush",
+    "Effect": "Tidal Rush also increases your and your Zephyrs' Primary Attack damage by 28.5% for 2 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Flow and Frenzy",
+    "Slot": "Chest",
+    "Skill": "Tidal Rush",
+    "Effect": "Tidal Rush also increases your Primary Attack Speed by 24% for 2 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Storm's Eye",
+    "Slot": "Main-Hand",
+    "Skill": "Tidal Rush",
+    "Effect": "Tidal Rush increases Skill damage by 6% per each nearby Zephyr for 3 seconds, up to a maximum of 18%."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mistwhisper",
+    "Slot": "Off-Hand",
+    "Skill": "Zephyr Surge",
+    "Effect": "Slayer Surge: Zephyr Surge now causes you to become untargetable and dash at an enemy unleashing 5 rapid strikes against them dealing 44% + 599 damage. Each Zephyr consumed grants 2 additional strikes and if your target dies before the assault ends, your Zephyrs will retun to your side and the cooldown will be reduced 70%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Dine on FIshtails",
+    "Slot": "Off-Hand",
+    "Skill": "Zephyr Surge",
+    "Effect": "Blade of Silence: Zephyr Surge can now be charged to unleash a powerful slash of air dealing 162% + 2191 damage. Charging longer increases the damage by 10% up to a maximum of 100% with each Zephyr consumed also increasing the Critical Hit Chance of the Attack by 20%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sparkskull",
+    "Slot": "Off-Hand",
+    "Skill": "Zephyr Surge",
+    "Effect": "Thunder Surge: Zephyr Surge now causes you to dash forward dealing 130% + 1756 lightning damage to enemies in your path. The dash will consume all active Zephyrs and each one consumed will grant another charge of the skill that must be used within 4 seconds. You are now untargetable during the dash, and exploiting Shock status with the dash will deal an additional 100% damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sunken Abyss",
+    "Slot": "Off-Hand",
+    "Skill": "Zephyr Surge",
+    "Effect": "Zephyr's Flurry: Zephy Surge now causes you to tumble away from your target as you throw 3 blades at them and other nearby enemies dealing 45% + 606 damage with each blade strike . When a blade lands a critical hit it will shatter in 2 striking the target again dealing 30% + 410 damage. Zephyr Surge also consumes all of your Zephyrs empowering the attack to throw 1 additional blade for each Zephyr consumed."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Endless Susurration",
+    "Slot": "Off-Hand",
+    "Skill": "Zephyr Surge",
+    "Effect": "Slashing Surge: Zephyr Surge now consumes all Zephyrs and teleports you to a target location where you perform several slashes based on Zephyrs consumed (up to a maximum of 3) each dealing X% + Y damage. You are untargetable during this attack and all consumed Zephyrs return when it ends."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Atonement Brand",
+    "Slot": "Legs",
+    "Skill": "Zephyr Surge",
+    "Effect": "Zephy Surge deals 15.2% increased damage each time it strikes the same target up to a maximum of 76%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sylvan Path",
+    "Slot": "Head",
+    "Skill": "Zephyr Surge",
+    "Effect": "Zephyr Surge damage increases by 6% per Zephyr consumed for 3 seconds, up to a maximum of 18%."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Gustgift",
+    "Slot": "Shoulder",
+    "Skill": "Wind Walk",
+    "Effect": "Symphony of Wind: Wind Walk now empowers you, during which your Primary Attacks grant you a shield that absorbs damage and grants immunity to knockback effects. (Shield value equals 80% of your damage)"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Weightless Existence",
+    "Slot": "Shoulder",
+    "Skill": "WInd Walk",
+    "Effect": "Chanting Wind: Wind Walk now creates an enchanted storm for 6 seconds, increasing your Evasion Rating by 30% and reducing all skill cooldowns by 2 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Breathtaker",
+    "Slot": "Shoulder",
+    "Skill": "Wind Walk",
+    "Effect": "Fume Step: Wind Walk now empowers you for 6 seconds during which every 6 yards moved conjures 3 wind slices that slash through random enemies dealing 83% + 1119 damage and slowing them reducing their Movement Speed by 40% for 4 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Coveted Cartilage",
+    "Slot": "Shoulder",
+    "Skill": "Wind Walk",
+    "Effect": "Slicing Gale: Wind Walk now grants you Slicing Gale for 3 seconds making you invisible while also increasing your Movement Speed by 40% and your Critical Hit Chance by 40%. The bous Critical Hit Chance persists for 3 seconds after your invisibility ends"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Dawning Smile",
+    "Slot": "Head",
+    "Skill": "Wind Walk",
+    "Effect": "Wind Walk cooldown is reduced by 18,6%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Deceitful Whispers",
+    "Slot": "Head",
+    "Skill": "Wind Walk",
+    "Effect": "Wind Walks Cooldown is reduced by 0.24 seconds each time you deal a Critical Hit but this cannot occur more often than 10 times every 9 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Grassblade Edge",
+    "Slot": "Main-Hand",
+    "Skill": "Wind Walk",
+    "Effect": "Wind Walk duration is increased  by 28.5%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mehrwen's Humility",
+    "Slot": "Main-Hand",
+    "Skill": "Wind Walk",
+    "Effect": "Wind Walk also removes all non-loss of control harmful effects"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Xsaadh Dhuth",
+    "Slot": "Main-Hand",
+    "Skill": "Rolling Surf",
+    "Effect": "Rolling Blade: Rolling Surf now empowers your edges, granting you 1,5 seconds immunity to total loss of control and knockback while causing you and your Zephyrs' Primary Attacks to become sweeping sword slashes that deal increased damage with each consecutive hit. (5% increased Primary Attack damage, up to a maximum of 50%)"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Flooded Stream",
+    "Slot": "Main-Hand",
+    "Skill": "Rolling Surf",
+    "Effect": "Rolling Whip: Rolling Surf now empowers your edges for 6 seconds, causing you and your Zephyrs Primary Attacks to become swirling whip strikes dealing 98% + 1393 damage. Additionally your Movement Speed is increased by 35% and you ride a wave allowing you to rush towards enemies and use Primary Attacks while moving"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Skein-Parter",
+    "Slot": "Main-Hand",
+    "Skill": "Rolling Surf",
+    "Effect": "Rolling Whip: Rolling Surf now empowers your edges for 6 seconds, causing you and your Zephyrs Primary Attacks to throw water daggers that return to you dealing 38% + 537 damage to enemies they strike. While active each use of a skill or Primary Attack grants you an additional dagger for each throw, up to a maximum of 4. Additionally your Movement Speed is increased by 35% and you ride a wave allowing you to rush towards enemies and use Primary Attacks while moving, but your Movement Speed is reduced by 25% when attacking."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Last Backbite",
+    "Slot": "Main-Hand",
+    "Skill": "Rolling Surf",
+    "Effect": "Backbreaker Bolts: Rolling Surf now empowers your next 5 Primary Attacks to fire Backbreaker Bolts each dealing 100% + 1416 damage. Bolts that hit an enemy from behind will increase by 100% + 1416 additional damage, stacking for each successive bolt"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Merchant's Scale",
+    "Slot": "Chest",
+    "Skill": "Rolling Surf",
+    "Effect": "Rolling Surf also conjures 1 Zephyr"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Unyielding Vision",
+    "Slot": "Head",
+    "Skill": "Rolling Surf",
+    "Effect": "Rolling Surf Critical Hits cause an explosion of water dealing 41% + 369 damage to nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Flitting Frown",
+    "Slot": "Head",
+    "Skill": "Rolling Surf",
+    "Effect": "Rolling Surf also increases the damage of the next 5 Primary Attacks within 3 seconds by 48%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Tidewall's Strength",
+    "Slot": "Chest",
+    "Skill": "Riptide",
+    "Effect": "Forceful Tide: Riptide now calls a wave that crashes into you, dealing 135% + 1908 damage while also pulling in and stunning enemies for 2 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Sealion's Skin",
+    "Slot": "Chest",
+    "Skill": "Riptide",
+    "Effect": "High Tide: Riptide now generates energy while you move, and once full you can activate it to dash forward on a wave dealing 170% + 2411 damage to all enemies in your path and knocking them back. Cannot cause knockback more often than once every 5 seconds. You must have full energy to activate the skill."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Hanalaguu's Armada",
+    "Slot": "Chest",
+    "Skill": "Riptide",
+    "Effect": "Churntide: Riptide now surrounds you and your Zephyrs with swirling tides for 4 seconds, dealing 80% + 1128 damage per second to nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Seamount's Helm",
+    "Slot": "Head",
+    "Skill": "Riptide",
+    "Effect": "If Riptide inflicts loss of control or knockback on an enemy, the damage they take is incereased by 19% for 3 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Tidebreakers",
+    "Slot": "Main-Hand",
+    "Skill": "Riptide",
+    "Effect": "Riptide increases your damage done by 7.6% for 3 seconds, for each enemy hit up to a maximum of 22.8%"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Storms without number",
+    "Slot": "Shoulder",
+    "Skill": "Stormfury",
+    "Effect": "Storm Maker: Stormfury now empowers only you for 6 seconds, causing every 3 Primary Attacks to release a violent Storm around your target dealing 86% + 1273 damage and pulling in nearby enemies. Cannot pull the same enemy player more often than once every 5 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Consecrated Voyage",
+    "Slot": "Shoulder",
+    "Skill": "Stormfury",
+    "Effect": "Hunter's Wind: Stormfury now engulfs an enemy in wind, dealing 104% + 1539 damage and knocking them airborne and marking them for 4 seconds. when the marked target is struck 3 times they burst dealing 41% + 604 damage to all nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Roaring Paulds",
+    "Slot": "Shoulder",
+    "Skill": "Stormfury",
+    "Effect": "Eye of Fury: Stormfury now calls a lightning storm to follow you for 5 seconds , striking random enemies with lightning every second, each bolt dealing 76% + 1122 lightning damage to nearby enemies"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Shell Clasps",
+    "Slot": "Shoulder",
+    "Skill": "Stormfury",
+    "Effect": "Hurricane Eye: Stormfury now empowers you, surrounding you  with swirling, shredding winds for 4 seconds, increasing your movement speed by 30% and continually pulling in nearby enemies each second dealing 52% + 765 damage"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Howlflurry",
+    "Slot": "Shoulder",
+    "Skill": "Stormfury",
+    "Effect": "Stinging Fury: Stormfury now empowers you and your Zephyrs for 5 seconds, during which Primary Attacks stack Wind Marks on enemies for 3 seconds when dealing damage. Marked enemies will take additional 120% + 728 damage every 3 stacks. The same ememy can only take this damage once every 0.35 seconds"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Spinetooth Greaves",
+    "Slot": "Legs",
+    "Skill": "Stormfury",
+    "Effect": "Stormfury also increases your Primary Attack Speed by 5% when it strikes an enemy, stacking up to 6 times (this item is bugged: you can equip it without the skill an it will work as long as you have 1 \"Crosswinds\" Eternal Affix on any Gear Piece"
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Nocbrodd Horn",
+    "Slot": "Main-Hand",
+    "Skill": "Stormfury",
+    "Effect": "When Stormfury deals damage, it increases your Critical Hit Chance by 7.6% for 3 seconds, up to a maximum of 22.8%"
+  }
+]
