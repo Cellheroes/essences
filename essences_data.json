@@ -2944,7 +2944,7 @@
     "Item": "Vaporizer",
     "Slot": "Legs",
     "Skill": "Mist-Touched",
-    "Effect": "When a Zephyr dissipates, it no longer creates a Mist-touched Orb and instead leaves behind a Tide Pool. Dealing lightning damage within the pool will electrify it , dealing an additional 91% + 47 damage to all enemies within the pool"
+    "Effect": "When a Zephyr dissipates, it no longer creates a Mist-touched Orb and instead leaves behind a Tide Pool. Dealing lightning damage within the pool will electrify it, dealing an additional 91% + 47 damage to all enemies within the pool"
   },
   {
     "Class": "Tempest",
@@ -2972,7 +2972,7 @@
     "Item": "Insatiable Appetite",
     "Slot": "Off-Hand",
     "Skill": "Wave Edge",
-    "Effect": "Wave Edge increases your Primary Attack Speed by 9,5% for 3 seconds when it deals damage, up to a maximum of 28,5%."
+    "Effect": "Wave Edge increases your Primary Attack Speed by 9.5% for 3 seconds when it deals damage, up to a maximum of 28.5%."
   },
   {
     "Class": "Tempest",
@@ -3014,7 +3014,7 @@
     "Item": "Whispering Breeze",
     "Slot": "Off-Hand",
     "Skill": "Wind Edge",
-    "Effect": "When Wind Edge damages an enemy below 50% life, its rush cooldown is reduced to 1,5 seconds"
+    "Effect": "When Wind Edge damages an enemy below 50% life, its rush cooldown is reduced to 1.5 seconds"
   },
   {
     "Class": "Tempest",
@@ -3084,7 +3084,7 @@
     "Item": "Shroud of the Atoned",
     "Slot": "Shoulder",
     "Skill": "Breaker",
-    "Effect": "Breaker Cooldown is reduced by 0.16 seconds for every enemy you damage up to a maximum of 1,6 seconds"
+    "Effect": "Breaker Cooldown is reduced by 0.16 seconds for every enemy you damage up to a maximum of 1.6 seconds"
   },
   {
     "Class": "Tempest",
@@ -3112,14 +3112,14 @@
     "Item": "Cyclone's Call",
     "Slot": "Off-Hand",
     "Skill": "Crosswinds",
-    "Effect": "Dust Devil: Crosswinds is now channeled for up to 4 seconds and can be cast while moving, causing you and your Zephyrs to spin launching wind blades every 0,3 seconds at up to 5 nearby enemies, dealing 57% + 814 damage"
+    "Effect": "Dust Devil: Crosswinds is now channeled for up to 4 seconds and can be cast while moving, causing you and your Zephyrs to spin launching wind blades every 0.3 seconds at up to 5 nearby enemies, dealing 57% + 814 damage"
   },
   {
     "Class": "Tempest",
     "Item": "Echoing Sky",
     "Slot": "Off-Hand",
     "Skill": "Crosswinds",
-    "Effect": "Heavy Winds: Crosswinds now causes you and your Zephyrs to launch wind blades dealing 117% + 1610 damage while also slowing enemies , reducing their movement speed by 70% for 4 seconds"
+    "Effect": "Heavy Winds: Crosswinds now causes you and your Zephyrs to launch wind blades dealing 117% + 1610 damage while also slowing enemies, reducing their movement speed by 70% for 4 seconds"
   },
   {
     "Class": "Tempest",
@@ -3182,7 +3182,7 @@
     "Item": "Glory to Ksathra",
     "Slot": "Off-Hand",
     "Skill": "Vortex",
-    "Effect": "Vortex also increases your Primary Attack Speed by 28,5% for 3s after hitting an enemy"
+    "Effect": "Vortex also increases your Primary Attack Speed by 28.5% for 3s after hitting an enemy"
   },
   {
     "Class": "Tempest",
@@ -3764,5 +3764,1762 @@
     "Slot": "Main-Hand",
     "Skill": "Stormfury",
     "Effect": "When Stormfury deals damage, it increases your Critical Hit Chance by 7.6% for 3 seconds, up to a maximum of 22.8%"
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Reliable Peril",
+    "Slot": "Legs",
+    "Skill": "Abomination",
+    "Effect": "Abomination also conjures an unholy aura around you for the duration of your transformation, dealing damage every second to nearby enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Mangler's Grove",
+    "Slot": "Main-Hand",
+    "Skill": "Abomination",
+    "Effect": "Abomination also increases your Attack Speed by a percentage of maximum Life lost, up to a maximum buff for increased Attack Speed."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Chimeric Favor",
+    "Slot": "Legs",
+    "Skill": "Abomination",
+    "Effect": "Abomination gains an additional Skill, Blood Mirage. Blood Mirage consumes your Life to conjure an illusion of yourself that mimics your Primary Attack."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Twin Omens",
+    "Slot": "Legs",
+    "Skill": "Abomination",
+    "Effect": "Abomination gains an additional Skill, Crimson Claw. Crimson Claw unleashes an abominable claw in a targeted direction that damages all enemies within its path and pulls them back to you. Additionally, enemies hit by Crimson Claw are unable to use Dash skills for a short time."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Anchored Agony",
+    "Slot": "Shoulder",
+    "Skill": "Abomination",
+    "Effect": "Abomination no longer consumes Anger and instead continually consumes your Life in order to damage and Slow nearby enemies, but you also heal yourself for the damage you deal."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Gnarly Gullet",
+    "Slot": "Shoulder",
+    "Skill": "Abomination",
+    "Effect": "Abomination no longer consumes Anger to transform and its Primary Attack now consumes Life to throw globs of gore at enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Rose Toll",
+    "Slot": "Off-Hand",
+    "Skill": "Abomination",
+    "Effect": "Abomination Primary Attacks have a chance to trigger a bloody claw that deals additional damage. The bloody claw's chance to trigger increases as your remaining Life decreases, up to a maximum."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Tough Love",
+    "Slot": "Legs",
+    "Skill": "Summon Oak Sage",
+    "Effect": "Activating Summon Oak Sage increases the damage of your summons for a limited time for each active summon, up to a maximum."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Hanging Chalice",
+    "Slot": "Off-Hand",
+    "Skill": "Shadow's Edge",
+    "Effect": "After Shadow's Edge hits an enemy, two blades ricochet out randomly targeting nearby enemies, dealing damage to them."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Chisel of the Architect",
+    "Slot": "Main-Hand",
+    "Skill": "Arcane Wind",
+    "Effect": "Arcane Wind now unleashes an icy cyclone in a targeted direction that explodes on contact with an enemy or upon reaching its final destination. This icy explosion damages and Chills nearby enemies, Freezing those that were already Chilled."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Stormlost's Visage",
+    "Slot": "Head",
+    "Skill": "Blade Dance",
+    "Effect": "Blade Dance now pulls all nearby enemies to you and prevents them from using Dash skills."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Valehallow's Head",
+    "Slot": "Head",
+    "Skill": "Bone Spike",
+    "Effect": "Bone Spike now grants you a mount, increasing your Movement Speed and making you immune to knockback effects. Your mount damages and knocks back enemies as it moves."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Ancient One’s Bite",
+    "Slot": "Shoulder",
+    "Skill": "Bone Spike",
+    "Effect": "Bone Spike's cooldown is reduced by 0.2 seconds for each enemy hit (0.4 seconds for players, up to a maximum of 1.2 seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Hair of the Priestess",
+    "Slot": "Head",
+    "Skill": "Bone Spike",
+    "Effect": "Bone Spikes now conjures a bed of spikes at a target location that continually damage enemies within the area and prevents them from using Dash skills. Enemies knocked back within the area will take additional damage and be Stunned."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Kepeleke’s Tribute",
+    "Slot": "Off-Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Bone Spirits now conjures a fog filled with wraiths to attack enemies in a targeted location. Wraiths continuously rush through the fog, damaging and knocking back enemies they hit."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Death's Egress",
+    "Slot": "Off-Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Bone Spirits now draws essence from nearby enemies, conjuring a Bone Spirit for each enemy affected that rapidly orbits you, damaging enemies it passes through."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Spare Ribs",
+    "Slot": "Shoulder",
+    "Skill": "Bone Spike",
+    "Effect": "Bones Spikes shatters enemy armor increasing the damage they take by 4% for 3 seconds, up to a maximum of 12%."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Pile of Plenty",
+    "Slot": "Shoulder",
+    "Skill": "Bound (Werebear)",
+    "Effect": "Bound (Werebear) cooldown is reduced by 0.5 seconds each time your Primary Attack hits an enemy, up to a maximum of 2 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Peatspald",
+    "Slot": "Shoulder",
+    "Skill": "Bound (Werebear)",
+    "Effect": "Bound (Werebear) increases your Movement Speed by 40% for 3 seconds when hitting an enemy."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Spring Veil",
+    "Slot": "Head",
+    "Skill": "Bound (Werebear)",
+    "Effect": "Bound (Werebear) is now toggled on or off, and while on you consume Primal Power to continuously sprint forward, damaging and knocking back enemies in your path."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Grand Endurance",
+    "Slot": "Shoulder",
+    "Skill": "Bound (Werebear)",
+    "Effect": "Bound (Werebear) now causes you to jump to a target location, damaging nearby enemies and gaining an absorb shield. While the shield is active, you take reduced damage."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Bounding Accuracy",
+    "Slot": "Head",
+    "Skill": "Bound (Werebear)",
+    "Effect": "Bound (Werebear) now leaps to a target, damaging all nearby enemies and increasing the Attack Speed and Critical Hit Chance of your Primary Attacks."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mandate of Ksathra",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker also grants you a shield that absorbs damage and makes you immune to the next loss of control effect you would suffer."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Shroud of the Atoned",
+    "Slot": "Shoulder",
+    "Skill": "Breaker",
+    "Effect": "Breaker cooldown is reduced by .1 seconds for every enemy you damage, up to a maximum of 3 seconds."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Hesitant Shore",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Breaker now conjures a Zephyr at your current location and then causes you to rush forward in a targeted direction, increasing your damage done. Using Breaker again, exiting the area or letting the effect expire returns you to your original location."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Mistwalkers",
+    "Slot": "Legs",
+    "Skill": "Breaker",
+    "Effect": "Breaker now makes you untargetable as you dash on a wave, damaging enemies along your path and conjuring a Zephyr."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Calming Burden",
+    "Slot": "Shoulder",
+    "Skill": "Breath of Heaven",
+    "Effect": "Breath of Heaven also reduces your damage taken by 10% for 3 seconds."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Mendflure",
+    "Slot": "Legs",
+    "Skill": "Breath of Heaven",
+    "Effect": "Breath of Heaven can now be used while suffering total loss of control and grants you an absorb shield that also removes all harmful effects. Your Dash skills also grant you an absorb shield that can stack."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Reversed Transgressions",
+    "Slot": "Legs",
+    "Skill": "Breath of Heaven",
+    "Effect": "Breath of Heaven now deals damage to nearby enemies and turns them into golden statues, preventing them from moving or attacking. Once free from the gold, enemies will take additional damage relative to the damage they received as a statue."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Scowling Jetty",
+    "Slot": "Head",
+    "Skill": "Cascade",
+    "Effect": "Cascade now slams your edges into the ground, damaging nearby enemies and causing geysers to erupt beneath their feat knocking them up."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Shining Undertow",
+    "Slot": "Chest",
+    "Skill": "Cascade",
+    "Effect": "Cascade's Critical Hit Chance is increased by 20% against enemies below 50% Life."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Trapping's Spoils",
+    "Slot": "Legs",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear also heals you for a percentage of its damage done."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Hunter's Snare",
+    "Slot": "Chest",
+    "Skill": "Chained Spear",
+    "Effect": "Chained Spear now empowers you to counterattack with spears when you take damage, pulling in enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Wild Surrender",
+    "Slot": "Chest",
+    "Skill": "Circle of Life",
+    "Effect": "Circle of Life is now channeled, continuously healing Life and generating Primal Power. You gain damage reduction but cannot move while channeling."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Saved by Nature",
+    "Slot": "Chest",
+    "Skill": "Circle of Life",
+    "Effect": "Circle of Life now grants nearby allies a regenerative seed that continuously heals Life, and heals a large amount if their Life drops too low."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Life Begets",
+    "Slot": "Chest",
+    "Skill": "Circle of Life",
+    "Effect": "Circle of Life now passively heals you while you avoid damage and can be activated to heal you in a burst of energy that also damages and Stuns nearby enemies. The burst triggers automatically if your Life falls too low."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Vilification Protocol",
+    "Slot": "Off-Hand",
+    "Skill": "Condemn",
+    "Effect": "Condemn also reduces enemy Movement Speed."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Harmonic Collide",
+    "Slot": "Chest",
+    "Skill": "Condemn",
+    "Effect": "Condemn now empowers you, causing lightning to strike enemies after they are attacked a few times."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Blighted Crop",
+    "Slot": "Main-Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "Critical hits with Bone Spirits trigger Soulfire Novas that deal additional damage. Cannot occur more often than once every second, and subsequent damage from multiple novas to the same enemy will be reduced by 50%."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Shattergrouse",
+    "Slot": "Legs",
+    "Skill": "Crush (Werebear)",
+    "Effect": "Crush (Werebear) also shatters enemy armor, increasing the damage they take by 15% for 3 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Mauler’s Mitt",
+    "Slot": "Off-Hand",
+    "Skill": "Crush (Werebear)",
+    "Effect": "Crush (Werebear) now empowers you, causing your Primary Attacks to smash the ground and damage nearby enemies, with Critical Hits causing spikes of rock to erupt from the ground for additional damage."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Hobble Tooth",
+    "Slot": "Off-Hand",
+    "Skill": "Crush (Werebear)",
+    "Effect": "Crush (Werebear) now slams the ground to create a shockwave, damaging and Slowing nearby enemies. Can be used during other skills."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Maiming Echo",
+    "Slot": "Shoulder",
+    "Skill": "Knife Trap",
+    "Effect": "Damage dealt by Knife Trap to the same enemy within 2 seconds is increased by 6％, stacking up to a maximum of 18％."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Let Them Sulk",
+    "Slot": "Head",
+    "Skill": "Daring Swing",
+    "Effect": "Daring Swing cooldown is reduced by seconds for each enemy it hits, up to a maximum duration."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Nimble Rival",
+    "Slot": "Shoulder",
+    "Skill": "Daring Swing",
+    "Effect": "Daring Swing now fires a hook in a direction that locks onto the ground and then pulls you along its path, damaging enemies and making you immune to knockback and loss of control as you travel."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Three on a Pig Post",
+    "Slot": "Chest",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse also pulls in enemies hit, but cannot occur more often than once every 6 seconds to the same enemy."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Open Shell",
+    "Slot": "Chest",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse also shatters enemy armor, increasing the damage they take by 10% for 3 seconds. Cannot occur on the same target more often than once every 6 seconds."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Fetid Folds",
+    "Slot": "Legs",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse now places a seal at a targeted location, dealing damage and Slowing enemies within the area. After a short delay the seal erupts, damaging and reducing the vision of enemies within the area."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Corpse Draggers",
+    "Slot": "Legs",
+    "Skill": "Dark Curse",
+    "Effect": "Dark Curse now unleashes a wave that damages all nearby enemies. It charges energy as you move that increases the damage of the wave."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Persistent Courage",
+    "Slot": "Main-Hand",
+    "Skill": "Deadly Reach",
+    "Effect": "Deadly Reach increases your Primary Attack Speed by 8% for 1 second, stacking up to a maximum of 24%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Silvered Dragoon",
+    "Slot": "Head",
+    "Skill": "Demoralize",
+    "Effect": "Demoralize now empowers you to counterattack with a roar when you take damage, reducing enemy Attack Speed."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Equalizer",
+    "Slot": "Main-Hand",
+    "Skill": "Magic Missile",
+    "Effect": "Each time you use a skill, your next Magic Missile turns into a flaming missile if cast within 5 seconds, which explodes on impact to deal additional damage to nearby enemies. You can accumulate up to 3 flaming missiles."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Lift the Lowborn",
+    "Slot": "Main-Hand",
+    "Skill": "Earthquake",
+    "Effect": "Earthquake also grants you a shield for 4 seconds that absorbs damage and makes you immune to 1 total loss of control effect."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Branch of Growling Earth",
+    "Slot": "Main-Hand",
+    "Skill": "Earthquake",
+    "Effect": "Earthquake damage is increased by 20% when it hits a Slowed enemy."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Whispers of the Soil",
+    "Slot": "Chest",
+    "Skill": "Earthquake",
+    "Effect": "Earthquake now conjures a swirling maelstrom of rock at a target location, damaging and Petrifying enemies within. Allied summons in the maelstrom gain a protective shell, taking reduced damage and gaining immunity to knockback and loss of control effects."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Earthbindings",
+    "Slot": "Chest",
+    "Skill": "Earthquake",
+    "Effect": "Earthquake now smashes the ground and empowers you, causing your movement to unleash aftershocks every few yards."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Crackling Rime",
+    "Slot": "Off-Hand",
+    "Skill": "Electrocute",
+    "Effect": "Electrocute also causes Chilled enemies to explode, dealing damage to nearby enemies and Chilling them for 3 seconds. Can only trigger once every second on the same target."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Chaps of the Acrobat",
+    "Slot": "Legs",
+    "Skill": "Escape",
+    "Effect": "Escape can now be used while suffering from total loss of control and knockback effects, making you immune to their effects for 0.5 seconds."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Calamitous Escape",
+    "Slot": "Shoulder",
+    "Skill": "Escape",
+    "Effect": "Escape now dashes to a targeted location, damaging and knocking back enemies within your path. Enemies hit also have their armor shattered increasing the damage you deal to them."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Blasphemer’s Folly",
+    "Slot": "Shoulder",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword also shatters enemy armor, increasing the damage they take by 4% for 2 seconds, stacking up to a maximum of 16%."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Keenmail",
+    "Slot": "Chest",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword also shatters enemy armor, increasing your Critical Hit Chance against them by 8％ for 3 seconds."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "The Clobber",
+    "Slot": "Main-Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now charges to a target, damaging all enemies at the location."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Ashes of Conviction",
+    "Slot": "Main-Hand",
+    "Skill": "Falling Sword",
+    "Effect": "Falling Sword now empowers you with a heavy sword for a short time, replacing your Primary Attack with one that does large sweeping strikes, stacking Holy Flame upon enemies that deals additional damage."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Goring Brace",
+    "Slot": "Off-Hand",
+    "Skill": "Ferocious Striek",
+    "Effect": "Ferocious Strike generates an additional 5 Primal Power when hitting an enemy. This can only occur once every 3 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Breakplates",
+    "Slot": "Chest",
+    "Skill": "Fire Tornado",
+    "Effect": "Fire Tornado also shatters enemy armor, increasing the damage they take by 10% for 3 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Burnsocket",
+    "Slot": "Main-Hand",
+    "Skill": "Fire Tornado",
+    "Effect": "Fire Tornado generates an additional 1 Primal Power per enemy hit, up to a maximum of 10."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Spangblain",
+    "Slot": "Head",
+    "Skill": "Fire Tornado",
+    "Effect": "Fire Tornado now targets a location, causing a cinder cone to form and pull in nearby enemies, then erupt with a burst of flame that damages and knocks them airborne."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Ash Monger",
+    "Slot": "Head",
+    "Skill": "Fire Tornado",
+    "Effect": "Fire Tornado now unleashes an expanding ring of fire, damaging and Burning enemies. Burning enemies explode when their Life falls too low."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Bonfire Crest",
+    "Slot": "Head",
+    "Skill": "Fire Tornado",
+    "Effect": "Fire Tornado now unleashes an explosion at a target location that damages and Burns nearby enemies. Skill can be triggered on a Critical Hit with a Primary Attack."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Squash Tocks",
+    "Slot": "Shoulder",
+    "Skill": "Fist of the Heavens",
+    "Effect": "Fist of the Heavens also increases the Critical Hit Damage enemies take by 8％ for 2 seconds, up to a maximum of 24％."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Rigid Skullcap",
+    "Slot": "Head",
+    "Skill": "Fist of the Heavens",
+    "Effect": "Fist of the Heavens now causes your Primary Attacks to emit lightning, damaging nearby enemies."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Fine Misfortune",
+    "Slot": "Head",
+    "Skill": "Fist of the Heavens",
+    "Effect": "Fist of the Heavens now empowers you with lightning, and when your next skill hits an enemy, lightning bolts will rain down on that location."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Irelurker",
+    "Slot": "Chest",
+    "Skill": "Flying Dragon",
+    "Effect": "Flying Dragon now makes you immune to knockback effects and repeatedly charges forward, damaging enemies within your path."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Nepu’s Raiment",
+    "Slot": "Chest",
+    "Skill": "Frostfield",
+    "Effect": "Frostfield now conjures a blizzard that follows enemies, continuously damaging and Chilling those caught within the storm. Enemies that remain within the storm for too long will become Frozen."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Windscarred Nomad",
+    "Slot": "Legs",
+    "Skill": "Frostfield",
+    "Effect": "Frostfield range increased by 20%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Munchgrin",
+    "Slot": "Head",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp also increases your Critical Hit Chance by 4％ for 3 seconds for each enemy hit, up to a maximum of 12％."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Pulp Maker",
+    "Slot": "Off-Hand",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp cooldown reduced by .2 seconds for each enemy hit, up to a maximum of 1 second."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Nail Toe",
+    "Slot": "Legs",
+    "Skill": "Ground Stomp",
+    "Effect": "Ground Stomp now smashes the ground and conjures an ancestral spirit that performs multiple Ground Stomps before disappearing, damaging all nearby enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Veiled Vice",
+    "Slot": "Head",
+    "Skill": "Howl",
+    "Effect": "Howl (Werewolf also applies Fear to enemies. Enemies below a percentage of Life are Feared for a limited time. Cannot Fear the same enemy more often than once every few seconds."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Ice Guard",
+    "Slot": "Chest",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor grants immunity to knockback effects while active. Fiery Revenge (Legs"
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Flame's Superiority",
+    "Slot": "Off-Hand",
+    "Skill": "Ice Armor",
+    "Effect": "Ice Armor instead radiates with fire, Burning nearby enemies and increasing your Critical Hit Chance against Burning enemies."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Contagious Misery",
+    "Slot": "Main-Hand",
+    "Skill": "Impale",
+    "Effect": "Impale now throws a fan of knives around you embedding them into the flesh of nearby enemies. When an enemy is knocked back the embedded knives will be dislodged sending them in random directions."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Weeping Wounds",
+    "Slot": "Off-Hand",
+    "Skill": "Impale",
+    "Effect": "Impale's damage is increased by 8% each time it strikes the same enemy, up to a maximum of 24%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Burning Praise",
+    "Slot": "Head",
+    "Skill": "Inner Sanctuary",
+    "Effect": "Inner Sanctuary now places a calming field that Slows enemies and causes your Dash skills to trigger a harmonic resonance, dealing damage to enemies within the area."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Fire Piper",
+    "Slot": "Legs",
+    "Skill": "Knife Trap",
+    "Effect": "Knife Trap now summons moving traps that automatically attack nearby enemies Burning them."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Unblemished Hide",
+    "Slot": "Chest",
+    "Skill": "Knockback Shot",
+    "Effect": "Knockback Shot now fires multiple piercing blasts in a targeted direction, damaging and knocking back enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Staff of Droves",
+    "Slot": "Main-Hand",
+    "Skill": "Landslide",
+    "Effect": "Landslide also increases your Primary Attack Speed by 7% for 5 seconds when it hits an enemy, stacking up to 3 times."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Crashing Longship",
+    "Slot": "Legs",
+    "Skill": "Leap",
+    "Effect": "Leap also reduces enemy Movement Speed by 35% and prevents the use of Dash skills for 3 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Pleasant Force",
+    "Slot": "Shoulder",
+    "Skill": "Leap",
+    "Effect": "Leap now applies a Bleed to all nearby enemies where you land."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Terrible Divide",
+    "Slot": "Main-Hand",
+    "Skill": "Leap",
+    "Effect": "Leap now jumps to a target location, damaging all nearby enemies, and can be used up to two more times in quick succession, each dealing more damage in a larger radius than the previous."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Ravager’s Trews",
+    "Slot": "Legs",
+    "Skill": "Lunge (Werewolf)",
+    "Effect": "Lunge (Wererwolf) deals 25% increased damage but consumes 5 Primal Power when used."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Wildbrute",
+    "Slot": "Head",
+    "Skill": "Lunge (Werewolf)",
+    "Effect": "Lunge (Werewolf now causes you to flicker out of sight, becoming untargetable as you Dash forward damaging enemies along your path. Lunge can be used multiple times in quick succession."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Snarling Face",
+    "Slot": "Head",
+    "Skill": "Lunge (Werewolf)",
+    "Effect": "Lunge (Werewolf) now causes you to perform a quick backstep before dashing forward. If you hit an enemy, trigger a powerful follow-up uppercut with both claws that knocks enemies airborne."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Ifeh’s Nails",
+    "Slot": "Off-Hand",
+    "Skill": "Mangle (Werebear)",
+    "Effect": "Mangle (Werebear) consumes 15 Primal Power after use to reset its cooldown. This cannot occur more often than once every 12 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Promise the Obscure",
+    "Slot": "Shoulder",
+    "Skill": "Mangle (Werebear)",
+    "Effect": "Mangle (Werebear) now unleashes a sequence of four attacks as you move in a direction, knocking back enemies. You are immune to knockback and loss of control during these attacks."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Lianor's Misgivings",
+    "Slot": "Legs",
+    "Skill": "Mephetic Cloud",
+    "Effect": "Mephetic Cloud duration increased by 30%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Dismal Figure",
+    "Slot": "Shoulder",
+    "Skill": "Mephetic Cloud",
+    "Effect": "Mephitic Cloud also causes harmful effects to last 30% longer."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Immovable Force",
+    "Slot": "Shoulder",
+    "Skill": "Mystic Strike",
+    "Effect": "Mystic Strike also grants you immunity to knockback effects for 2 seconds."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Justicar’s Maw",
+    "Slot": "Off-Hand",
+    "Skill": "Punish",
+    "Effect": "Punish also causes enemies to deal 15% reduced damage for 1 second."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Tokens of Vigilance",
+    "Slot": "Chest",
+    "Skill": "Rabid Might",
+    "Effect": "Rabid Might also causes Primary Attacks to deal additional damage equal to a percentage of your maximum Life."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Frenzy Reed",
+    "Slot": "Main-Hand",
+    "Skill": "Rabid Might",
+    "Effect": "Rabid Might duration is extended by 30% while transformed."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Ald Abundance",
+    "Slot": "Legs",
+    "Skill": "Rabid Might",
+    "Effect": "Rabid Might now increases your maximum Life until you die and temporarily increases the damage of your Primary Attacks based on your current Primal Power."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Kiegfran",
+    "Slot": "Shoulder",
+    "Skill": "Raven Swarm",
+    "Effect": "Raven Swarm also generates Primal Power when it hits an enemy, but this cannot occur more often than once every so often."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Soarskull",
+    "Slot": "Shoulder",
+    "Skill": "Raven Swarm",
+    "Effect": "Raven Swarm also increases your Movement Speed by 30% for 3 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Hundred Wings’ Shade",
+    "Slot": "Main-Hand",
+    "Skill": "Raven Swarm",
+    "Effect": "Raven Swarm now dashes forward as a flock of ravens, during which you are untargetable, and damages enemies along your path. A portion of the cooldown is returned if no enemies are hit."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Nyteflurry",
+    "Slot": "Main-Hand",
+    "Skill": "Raven Swarm",
+    "Effect": "Raven Swarm now empowers you, causing your Primary Attacks and Skills to conjure ravens that automatically attack enemies, who are Blinded when ravens hit them multiple times."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Cackling Frenzy",
+    "Slot": "Legs",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Rend and Tear (Werewolf also increases your Life Drain against enemies hit for a limited-time, stacking up to a maxmium."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Wulftear",
+    "Slot": "Off-Hand",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Rend and Tear (Werewolf is now a series of slashing claw attacks that damage and Stun enemies. Using other skills beforehand increases the number of attacks."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Unstoppable Redress",
+    "Slot": "Legs",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Rend and Tear (Werewolf) can be used while under the effects of total loss of control, consuming 15 Primal Power and removing the status."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Thrivegreaves",
+    "Slot": "Legs",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Rend and Tear (Werewolf) consumes 5 Primal Power, increasing its Critical Hit Chance by 25%."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Scar Carver",
+    "Slot": "Off-Hand",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Rend and Tear (Werewolf) now causes you to dash forward and strike, and if the attack hits you can activate a powerful follow-up attack that sweeps in a wide arc, dealing additional damage to enemies at low Life."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Distant Hissing",
+    "Slot": "Off-Hand",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Rend and Tear (Werewolf) now slashes with both claws, unleashing a claw wind at enemies in front of you. If Burning enemies are close to you, the range and damage of the claw wind increases, and it knocks back enemies."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Tidebreakers",
+    "Slot": "Main-Hand",
+    "Skill": "Riptide",
+    "Effect": "Riptide increases your damage done by 4％ for 3 seconds for each enemy hit, up to a maximum of 12％."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Hanalaguu's Armada",
+    "Slot": "Chest",
+    "Skill": "Riptide",
+    "Effect": "Riptide now surrounds you and your Zephyrs with swirling tides, continually damaging all nearby enemies."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Fugitive Daunt",
+    "Slot": "Legs",
+    "Skill": "Sacred Chain",
+    "Effect": "Sacred Chain also disables enemy Dash skills for a limited time."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "The Chainkeeper",
+    "Slot": "Shoulder",
+    "Skill": "Sacred Chain",
+    "Effect": "Sacred Chain now empowers you for a limited time, during which holy links will form between you and nearby enemies, continually damaging them."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "No More Bygones",
+    "Slot": "Chest",
+    "Skill": "Sanguinate",
+    "Effect": "Sanguinate now also shatters enemy armor, increasing the damage they take by 10% for 3 seconds."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Night's Charge",
+    "Slot": "Legs",
+    "Skill": "Sanguinate",
+    "Effect": "Sanguinate now teleports you to a target location, damaging all nearby enemies and knocking them airborne."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Castellatia",
+    "Slot": "Legs",
+    "Skill": "Sanguinate",
+    "Effect": "Sanguinate's second activation now causes you to burst into the air, damaging, knocking up and stunning nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Crown of Frozen Tears",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now hurls multiple frigid spheres of ice at an enemy and if they hit a Frozen enemy the spheres shatter dealing additional damage to nearby enemies."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Torchbearer’s Pride",
+    "Slot": "Shoulder",
+    "Skill": "Scorch",
+    "Effect": "Scorch now increases your Movement Speed by 30% for 2 seconds after hitting an enemy."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Horned Veil",
+    "Slot": "Head",
+    "Skill": "Scorch",
+    "Effect": "Scorch now launches a ball of fire that damages and Burns enemies along its path, conjuring a number of firebolts to orbit you equal to the number of enemies Scorch inflicted with Burn."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Eyeless Watch",
+    "Slot": "Head",
+    "Skill": "Sentry",
+    "Effect": "Sentry now summons a rope turret that fires at surrounding enemies, attaching ropes and pulling them in. Affected enemies are unable to use Dash Skills and will be Stunned if they move outside the turret's range."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Fated Scorpion",
+    "Slot": "Off-Hand",
+    "Skill": "Sentry",
+    "Effect": "Sentry triggers a small explosion when destroyed, dealing additional damage and Stunning enemies for 2 seconds."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Mercy's Plight",
+    "Slot": "Off-Hand",
+    "Skill": "Shadow's Edge",
+    "Effect": "Shadow's Edge now marks enemies, causing them to erupt for additional damage, when reaching 4 marks."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Sanctimonious Sign",
+    "Slot": "Chest",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge also increases your Primary Attack Speed by 20% for 3 seconds, or up to a maximum of 10 attacks."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Luminous Respite",
+    "Slot": "Legs",
+    "Skill": "Shield Charge",
+    "Effect": "Shield Charge now rushes a targeted enemy, knocking back all other surrounding enemies, and challenging your target to a duel. During the duel, you take reduced damage from other enemies you are not dueling and partici44Legs can only use Primary Attacks but they are also immune to loss of control and knockback effects. Slaying your foe during the duel increases your damage done for a short while."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Blest Offense",
+    "Slot": "Legs",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare also grants you a shield for 1.5 seconds that absorbs damage for each enemy hit, up to a maximum of 3 enemies contribute to the shield. When the shield disappears, it deals damage based on its absorb value."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Proven Reprove",
+    "Slot": "Off-Hand",
+    "Skill": "Shield Glare",
+    "Effect": "Shield Glare now places you in a counterattack stance, during which receiving an attack from close range will cause you to burst with light, damaging and Blinding all nearby enemies, and increasing the damage they take."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Calm Within Rage",
+    "Slot": "Head",
+    "Skill": "Shield of Zen",
+    "Effect": "Shield of Zen also increases your Evasion Rating by 10% while active."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Sacred Echoes",
+    "Slot": "Main-Hand",
+    "Skill": "Shield of Zen",
+    "Effect": "Shield of Zen now empowers you, causing a mystic palm to fall upon a random nearby enemy when you use a Skill, and additionally conjuring an avatar of the sky after the third skill used, dealing damage to all nearby enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Voice of the Crescent",
+    "Slot": "Head",
+    "Skill": "Shroud of Night",
+    "Effect": "Shroud of Night also increases your Evasion Rating by 12%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Layered Aims",
+    "Slot": "Chest",
+    "Skill": "Shroud of Night",
+    "Effect": "Shroud of Night now empowers you and nearby allies, causing your Primary Attacks to mark enemies for death. The marks explode upon reaching 5 stacks dealing damage to the marked enemy."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Moonwraith",
+    "Slot": "Chest",
+    "Skill": "Shroud of Night",
+    "Effect": "Shroud of Night now empowers you for a short while, causing you to conjure a shadowy apparition to attack nearby enemies when you take damage."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Influencer",
+    "Slot": "Chest",
+    "Skill": "Shroud of Night",
+    "Effect": "Shroud of Night now only empowers you, causing every other Primary Attack to conjure a shadowy apparition to attack enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Momentary Comfort",
+    "Slot": "Chest",
+    "Skill": "Shroud of Night",
+    "Effect": "Shroud of Night now periodically conjures shadowy apparitions that grant shields to you and nearby allies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Hush",
+    "Slot": "Head",
+    "Skill": "Shroud of Night",
+    "Effect": "Shroud of Night's duration increased by 30%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Empress Pariah",
+    "Slot": "Shoulder",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood also converts 6% of the damage done into an absorb shield."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Reverent Hunter",
+    "Slot": "Main-Hand",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood also slows enemy Movement Speed by 30%, absorbing their vigor, and increases your Movement Speed by 10%, up to 30%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Horns of the Hexed",
+    "Slot": "Head",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood is no longer Channeled and now moves with you, dealing damage and draining the life of nearby enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Wightveil",
+    "Slot": "Head",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood now absorbs the power from nearby enemies reducing their damage. Each affected enemy provides you with increased damage."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "The Numbing Edge",
+    "Slot": "Shoulder",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood now also deals 20% increased damage to enemies suffering from continual damage effects."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Pain is Purpose",
+    "Slot": "Head",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood now instantly drains the life of nearby enemies to grant yourself or an ally a shield that absorbs damage, but it no longer heals you. Shielding an ally will also grant you a shield."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Cousin to Wildcats",
+    "Slot": "Head",
+    "Skill": "Siphon Blood",
+    "Effect": "Siphon Blood now Slows and binds nearby enemies to you. When Siphon Blood expires you expel a wave of blood, damaging and Stunning all nearby enemies that were still bound to you."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Sprig of Hawthorn",
+    "Slot": "Off-Hand",
+    "Skill": "Skewer",
+    "Effect": "Skewer also increases your damage done by 10% for 4 seconds."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "The Besalver",
+    "Slot": "Main-Hand",
+    "Skill": "Skewer",
+    "Effect": "Skewer now causes you to leap into the air and slam into the target location, knocking enemies up and stunning them."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Sawtooth",
+    "Slot": "Main-Hand",
+    "Skill": "Skewer",
+    "Effect": "Skewer now causes you to sprint forward while dragging your spear. Release the skill to knock your enemy up in the air."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Bewildering Arc",
+    "Slot": "Main-Hand",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen also increases your Attack Speed for a limited time."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Dusky Courier",
+    "Slot": "Main-Hand",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen maximum charges increased by 1."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Fume Threads",
+    "Slot": "Chest",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen now empowers you to launch grenades at nearby enemies as you move. Dash skills have a reduced distance requirement to trigger grenades."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Seditious Breath",
+    "Slot": "Chest",
+    "Skill": "Smoke Screen",
+    "Effect": "Smoke Screen now throws a grenade at a target location, creating an area of dust that Slows enemies by 50% and causes Burning enemies to explode."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Fernam's Birthmantle",
+    "Slot": "Shoulder",
+    "Skill": "Spear Flurry",
+    "Effect": "Spear Flurry also causes enemies to Bleed for 3 seconds, dealing additional damage."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Heir of High Regions",
+    "Slot": "Head",
+    "Skill": "Spear Flurry",
+    "Effect": "Spear Flurry deals 15% increased damage to enemies suffering loss of control."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Made to Wander",
+    "Slot": "Legs",
+    "Skill": "Spear Flurry",
+    "Effect": "Spear Flurry now causes you to Dash forward, damaging all enemies in your path. Spear Flurry can be activated again up to 2 additional times."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Relent Not",
+    "Slot": "Legs",
+    "Skill": "Spear Flurry",
+    "Effect": "Spear Flurry now causes you to run forward, damaging and knocking back all enemies in your path."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Overrun",
+    "Slot": "Legs",
+    "Skill": "Spear Flurry",
+    "Effect": "Spear Flurry now knocks enemies into the air."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Manymark",
+    "Slot": "Legs",
+    "Skill": "Spinning Chakram",
+    "Effect": "Spinning Chakram also applies a Chakram Mark for a limited time when it hits an enemy. When marked enemies are hit multiple times they are dealt additional damage (Cannot trigger more often that once every few seconds to the same enemy."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Supply Everlasting",
+    "Slot": "Off-Hand",
+    "Skill": "Spinning Chakram",
+    "Effect": "Spinning Chakram now empowers you to launch chakrams at nearby enemies as you move. Dash skills have a reduced distance requirement to trigger chakrams."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Screaming Gale",
+    "Slot": "Main-Hand",
+    "Skill": "Squall",
+    "Effect": "Squall now causes you to spin with your edges, pulling in nearby enemies, damaging and marking them. After a few seconds the marks erupts, dealing additional damage equal to a percentage of the damage you dealt to them while they were marked."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Mask of Pouncing",
+    "Slot": "Head",
+    "Skill": "Stag Charge",
+    "Effect": "Stag Charge also increases your Primal Power generation by 30% for 3 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Scorched Berth",
+    "Slot": "Legs",
+    "Skill": "Stag Charge",
+    "Effect": "Stag Charge now leaps to a target location, generating Primal Power based on the number of enemies hit."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Gilded Majesty",
+    "Slot": "Head",
+    "Skill": "Summon Grizzly",
+    "Effect": "Summon Grizzly now summons a bear imbued with the relentless power of the forest thicket, able to attack with Stunning thorns, consume Primal Power to resurrect, and be commanded to leap into a group of enemies and taunt them."
+  },
+  {
+    "Class": "Druid",
+    "Item": "The Yawning Maw",
+    "Slot": "Head",
+    "Skill": "Summon Grizzly",
+    "Effect": "Summon Grizzly now summons a flaming bear that continuously Burns nearby enemies, and can be commanded to leap to a location, damaging enemies and increasing its Critical Hit Chance."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Lightling Drape",
+    "Slot": "Legs",
+    "Skill": "Summon Oak Sage",
+    "Effect": "Summon Oak Sage damage increases by 5% for 5 seconds each time they attack, up to a maximum of 20%."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Tuskguard",
+    "Slot": "Off-Hand",
+    "Skill": "Summon Oak Sage",
+    "Effect": "Summon Oak Sage now actively summons 3 Oak Sages who infect enemies with Smolder Seeds that explode if the enemy is affected by Burning."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Sapling Claw",
+    "Slot": "Off-Hand",
+    "Skill": "Summon Oak Sage",
+    "Effect": "Summon Oak Sage now actively summons a ring of Oak Sages that automatically seek out targets and self-destruct, damaging all nearby enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Cedarkin",
+    "Slot": "Off-Hand",
+    "Skill": "Summon Oak Sage",
+    "Effect": "Summon Oak Sage now actively summons protective Oak Sages to orbit you, each granting damage reduction and immunity against one total loss of control effect."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Rattling Shell",
+    "Slot": "Main-Hand",
+    "Skill": "Summon Wolves",
+    "Effect": "Summon Wolves also increases your Movement Speed by 15% for each active wolf companion under your control."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Lunar Cradle",
+    "Slot": "Main-Hand",
+    "Skill": "Summon Wolves",
+    "Effect": "Summon Wolves also weaken nearby enemies, increasing the damage they take from you."
+  },
+  {
+    "Class": "Druid",
+    "Item": "The Great One",
+    "Slot": "Shoulder",
+    "Skill": "Summon Wolves",
+    "Effect": "Summon Wolves now summons a single dire wolf that takes reduced damage by consuming Primal Power when hit and can be commanded to dash toward enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Bar-Ghaist Beacon",
+    "Slot": "Shoulder",
+    "Skill": "Summon Wolves",
+    "Effect": "Summon Wolves now summons fire wolves to fight alongside you and Burn enemies, who can be commanded to breathe fire and increase their Attack Speed."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Vagrant Mercenary",
+    "Slot": "Chest",
+    "Skill": "Sunder",
+    "Effect": "Sunder also reduces enemy Movement Speed by 30％ and prevents their use of Dash skills for 2 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Cataclysm Rake",
+    "Slot": "Shoulder",
+    "Skill": "Sunder",
+    "Effect": "Sunder now jumps to a target location, creating fissures in the ground that erupt when you use Ground Stomp or Leap, damaging and knocking enemies airborne."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Occasional Pillar",
+    "Slot": "Legs",
+    "Skill": "Surging Stone",
+    "Effect": "Surging Stone deals 25% increased damage but consumes 25% more Primal Power."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Chiropteran Trade",
+    "Slot": "Chest",
+    "Skill": "Swarm of Bats",
+    "Effect": "Swarm of Bats damage increased 10%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Oversight",
+    "Slot": "Legs",
+    "Skill": "Swarm of Bats",
+    "Effect": "Swarm of Bats now also heals you for 15% of the damage it deals."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Faces of Fading Mirth",
+    "Slot": "Legs",
+    "Skill": "Swarm of Bats",
+    "Effect": "Swarm of Bats now also poisons enemies, causing them to take continual damage for 3 seconds."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Swarmspeaker",
+    "Slot": "Shoulder",
+    "Skill": "Swarm of Bats",
+    "Effect": "Swarm of Bats now engulfs you in a cloud of bats, continually damaging to nearby enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Solemn Snare",
+    "Slot": "Shoulder",
+    "Skill": "Swarm of Bats",
+    "Effect": "Swarm of Bats now shrouds you in a fog of blood mist, increasing your Movement Speed and making you untargetable while also dealing damage to nearby enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Bats and Men Both",
+    "Slot": "Shoulder",
+    "Skill": "Swarm of Bats",
+    "Effect": "Swarm of Bats now unleashes a barrage of bats, damaging enemies in their path."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Laden Axiom",
+    "Slot": "Main-Hand",
+    "Skill": "Sweep Attack",
+    "Effect": "Sweep Attack now swings two mystical chains towards each other in an arc, gathering enemies in the middle and Stunning them."
+  },
+  {
+    "Class": "Wizard",
+    "Item": "Fiery Revenge",
+    "Slot": "Legs",
+    "Skill": "Teleport",
+    "Effect": "Teleport is now imbued with fire, damaging and Burning nearby enemies when you arrive at your target location."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Rootvein Mail",
+    "Slot": "Chest",
+    "Skill": "Tendrils of Blood",
+    "Effect": "Tendrils of Blood now tethers you to an enemy, Immobilizing you and Stunning them for up to 3 seconds. The blood tether continually deals damage to the linked enemy and can be broken at anytime by activating the skill again."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Ruin's Bindings",
+    "Slot": "Chest",
+    "Skill": "Tendrils of Blood",
+    "Effect": "Tendrils of Blood now throws enemies to a targeted location, dealing damage and Stunning them."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Coiled Course",
+    "Slot": "Main-Hand",
+    "Skill": "Ravage",
+    "Effect": "The final strike of the Ravage combo unleashes a wave of energy that deals damage to enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Trailing-Vine",
+    "Slot": "Head",
+    "Skill": "Thorn Armor",
+    "Effect": "Thorn Armor also increases your Critical Hit Chance by 8% while active."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Ravenous Wilds",
+    "Slot": "Off-Hand",
+    "Skill": "Thorn Armor",
+    "Effect": "Thorn Armor damage also shatters enemy armor, increasing the Critical Hit Damage they take for a limited time, up to a maximum."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Flesh is Fertile Ground",
+    "Slot": "Chest",
+    "Skill": "Thorn Armor",
+    "Effect": "Thorn Armor is now toggled on or off, and while on it consumes Primal Power to grant damage reduction to all nearby allies and continuously damage nearby enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Coat of Fecundity",
+    "Slot": "Chest",
+    "Skill": "Thorn Armor",
+    "Effect": "Thorn Armor now creates an area of thorny vines that follows you, continuously damaging nearby enemies and infecting them with Smolder Seeds, which explode if the infected enemy is Burning."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Barbmantle",
+    "Slot": "Chest",
+    "Skill": "Thorn Armor",
+    "Effect": "Thorn Armor now only shields you, and while active causes your attacks to scatter thorns, damaging nearby enemies. Skill can be triggered on Primary Attack."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Lethal Embrace",
+    "Slot": "Shoulder",
+    "Skill": "Werewolf",
+    "Effect": "Transforming into a Werewolf increases your Evasion Rating for a few seconds for every Primal Power you currently have, up to a maximum."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Engulfed Spirit",
+    "Slot": "Head",
+    "Skill": "Transfusion",
+    "Effect": "Transfusion also increases your damage by 4% for 3 seconds for each enemy hit, up to a maximum of 12％."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Skin Upon Steel",
+    "Slot": "Chest",
+    "Skill": "Transfusion",
+    "Effect": "Transfusion now grants only you a shield and while it remains active all Life Drain restores the absorb value of the shield instead of healing you. Transfusion will be automatically activated when your Life is low."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Haera's Cage",
+    "Slot": "Chest",
+    "Skill": "Transfusion",
+    "Effect": "Transfusion now pulls in all nearby enemies, damaging them and granting you an absorb shield based on the number of enemies gathered."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Quenched Votary",
+    "Slot": "Head",
+    "Skill": "Transfusion",
+    "Effect": "Transfusion shields also increase your Life Drain by a percentage."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Hunter's Whirl",
+    "Slot": "Shoulder",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance cooldown is reduced by .2 seconds for each enemy hit within 6 seconds, up to a maximum of 1 second of reduction."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Blotniffe",
+    "Slot": "Main-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance deals up to 20% increased damage, the further you are from the target."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Evil Thoughts",
+    "Slot": "Shoulder",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance maximum charges increased by 1."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Ageless Cross",
+    "Slot": "Off-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance now causes shadow spears to randomly fall from the sky within an area, dealing damage to enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Wardstone",
+    "Slot": "Off-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance now conjures a giant void spear that falls from the sky, damaging, knocking back and Stunning enemies within the area."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Blood Theriac",
+    "Slot": "Off-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance now throws a shadow lance forward into the ground, damaging enemies in its path. Activate again to rush the polearm, Stunning and dealing additional damage to any enemies in your path."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Woundwell",
+    "Slot": "Off-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance now throws multiple spears in an arc."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Lost Companions",
+    "Slot": "Off-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "Umbral Lance now throws several spears in all directions that return to you, damaging enemies in their path."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Savagery Adored",
+    "Slot": "Legs",
+    "Skill": "Rend and Tear (Werewolf)",
+    "Effect": "Using Rend and Tear (Werewolf) also increases the Critical Hit Chance of Primary Attacks by 15% for 3 seconds."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Warmth and Likability",
+    "Slot": "Chest",
+    "Skill": "Wave of Blood",
+    "Effect": "Wave of Blood maximum charges increased by 1."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Peer of the Cursed",
+    "Slot": "Off-Hand",
+    "Skill": "Wave of Blood",
+    "Effect": "Wave of Blood now creates a well of death that Slows enemies within until they are Immobilized."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Idol of Opulence",
+    "Slot": "Off-Hand",
+    "Skill": "Wave of Blood",
+    "Effect": "Wave of Blood now releases a bloody explosion, damaging, knocking back and Stunning enemies within the area."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Pinch Point",
+    "Slot": "Off-Hand",
+    "Skill": "Wave of Blood",
+    "Effect": "Wave of Blood now unleashes an eruption of blood around you, dealing damage and knocking up nearby enemies."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Gorger's Yawn",
+    "Slot": "Head",
+    "Skill": "Wave of Blood",
+    "Effect": "Wave of Blood range increased by 20%."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Malward",
+    "Slot": "Chest",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike also increases your Critical Hit Chance by 4％ for 3 seconds, up to a maximum of 12％."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Steadfast Strike",
+    "Slot": "Off-Hand",
+    "Skill": "Wave Strike",
+    "Effect": "Wave Strike now slams the ground to damage nearby enemies and can be used two more times in quick succession."
+  },
+  {
+    "Class": "Druid",
+    "Item": "The Craw",
+    "Slot": "Main-Hand",
+    "Skill": "Werebear",
+    "Effect": "Werebear now transforms you into a gigantic bear with increased attack range and maximum Life."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Loamskull",
+    "Slot": "Main-Hand",
+    "Skill": "Werewolf",
+    "Effect": "Werewolf now wreaths you in fire when you transform, damaging and Burning nearby enemies and causing explosions of flame when Primary Attacks Critically Hit."
+  },
+  {
+    "Class": "Druid",
+    "Item": "The Ordered Crook",
+    "Slot": "Main-Hand",
+    "Skill": "Werewolf",
+    "Effect": "Werewolf transformation now causes you to leap to a target location, knocking enemies airborne and marking them. Your Critical Hit Chance is increased against the marked enemies and you restore Life when the marks expire."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Jagged Conch",
+    "Slot": "Off-Hand",
+    "Skill": "Blade Dance",
+    "Effect": "When Blade Dance hits an enemy, it applies Wind Shackles for 3 seconds, dealing additional damage for every 5 attacks the enemy receives."
+  },
+  {
+    "Class": "Necromancer",
+    "Item": "Corpse Splitter",
+    "Slot": "Main-Hand",
+    "Skill": "Bone Spirits",
+    "Effect": "When Bone Spirits damages the same target 3 times within 2 seconds it Silences them, preventing the use of Skills for 2 seconds. Cannot Silence the same target more often than once every 6 seconds."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Tundra Burr",
+    "Slot": "Main-Hand",
+    "Skill": "Demoralize",
+    "Effect": "When Demoralize deals damage, it also reduces an enemy's damage for a limited-time, up to a maximum."
+  },
+  {
+    "Class": "Monk",
+    "Item": "Up and Over",
+    "Slot": "Off-Hand",
+    "Skill": "Flying Dragon",
+    "Effect": "When Flying Dragon deals damage 3 times, you explode with energy, dealing damage to nearby enemies knocking them up (cannot occur more often than once every 5 seconds on the same target."
+  },
+  {
+    "Class": "Demon Hunter",
+    "Item": "Unhindered Repercussions",
+    "Slot": "Head",
+    "Skill": "Knockback Shot",
+    "Effect": "When Knockback Shot knocksback an enemy, your damage done is increased by 5% for 3 seconds, stacking up to a maximum of 15%."
+  },
+  {
+    "Class": "Crusader",
+    "Item": "Lash Recital",
+    "Slot": "Head",
+    "Skill": "Sacred Chain",
+    "Effect": "When Sacred Chain damages an enemy multiple times within a limited time, they are dealt additional damage."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Broken Corseque",
+    "Slot": "Main-Hand",
+    "Skill": "Siphon Blood",
+    "Effect": "When Siphon Blood damages the same enemy 3 times it causes them to hemorrhage, dealing additional damage."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "First Bloodwalker",
+    "Slot": "Main-Hand",
+    "Skill": "Umbral Lance",
+    "Effect": "When Umbral Lance hits the same enemy 3 times within 3 seconds, it deals additional damage."
+  },
+  {
+    "Class": "Tempest",
+    "Item": "Whispering Breeze",
+    "Slot": "Off-Hand",
+    "Skill": "Wind Edge",
+    "Effect": "When Wind Edge damages an enemy below 50% Life its rush cooldown is reduced to 1.5 seconds."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Saw Notch",
+    "Slot": "Chest",
+    "Skill": "Werebear",
+    "Effect": "While a Werebear, each enemy you kill will increase your Attack and Movement Speeds by 8% for 4 seconds, stacking up to 3 times."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Thrill of the Hunt",
+    "Slot": "Shoulder",
+    "Skill": "Werewolf",
+    "Effect": "While a Werewolf, generate 3 Primal Power for each enemy killed. Can only trigger once every second."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Brae’s Bark",
+    "Slot": "Shoulder",
+    "Skill": "Werewolf",
+    "Effect": "While a Werewolf, you deal 10% increased damage against enemies suffering from a continual damage effect."
+  },
+  {
+    "Class": "Druid",
+    "Item": "All Are Prey",
+    "Slot": "Shoulder",
+    "Skill": "Werewolf",
+    "Effect": "While a Werewolf, you deal 20% increased damage to enemies, reduced by 5% for every ally within 5 yards of enemies."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Sharval's Blessing",
+    "Slot": "Chest",
+    "Skill": "Werewolf",
+    "Effect": "While a Werewolf, you gain additional Life Drain against enemies below 50% Life."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Consent to Ecstasy",
+    "Slot": "Shoulder",
+    "Skill": "Abomination",
+    "Effect": "While Abomination is active, defeating an enemy grants you Abomination's Might increasing your damage done by 3%, up to a maximum of 15% during your transformation."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Journey's End",
+    "Slot": "Legs",
+    "Skill": "Abomination",
+    "Effect": "While Abomination is active, defeating an enemy heals you for 5% of your Life, up to a maximum of 80% Life restored during your transformation."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Bright Arrival",
+    "Slot": "Shoulder",
+    "Skill": "Abomination",
+    "Effect": "While Abomination is active, defeating an enemy increases the remaining duration of Abomination by .4 seconds, up to a maximum increase of 4.8 seconds."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Grimhound",
+    "Slot": "Off-Hand",
+    "Skill": "Abomination",
+    "Effect": "While Abomination is active, the longer you remain near an enemy the more damage you deal to them, up to a maximum damage increase of 20%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Nightflayer",
+    "Slot": "Legs",
+    "Skill": "Abomination",
+    "Effect": "While you remain inside Mephitic Cloud, your Attack and Movement Speed are increased by 10%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Vow of Trickery",
+    "Slot": "Head",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike also blocks incoming projectiles."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Count of the Eves",
+    "Slot": "Chest",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike also grants 5% damage reduction per enemy hit for 3 seconds. This effect stacks up to a maximum of 6 times."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Fjorda’s Death Mask",
+    "Slot": "Head",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike also increases your damage done by 3% for 2 seconds for each enemy hit, stacking up to a maximum of 15%."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Dire Calling",
+    "Slot": "Main-Hand",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike is now infused with frost, Chilling enemies, reducing their Attack and Movement Speed."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Siren's Grin",
+    "Slot": "Head",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike maximum charges increased by 1."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Maul and Response",
+    "Slot": "Main-Hand",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike now causes you to counterattack, damaging all nearby enemies when you take damage. Additionally, you heal yourself for a portion of the damage done."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Red Concord",
+    "Slot": "Main-Hand",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike now combusts, causing enemies to Burn."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Toothdrinker",
+    "Slot": "Main-Hand",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike now sweeps your polearm in front of you, damaging, Slowing and pulling enemies to the side."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Bardiche of Below",
+    "Slot": "Main-Hand",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirling Strike now unleashes a blast, dealing damage to enemies caught in the path."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "The Bronze Berm",
+    "Slot": "Chest",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirlwind now makes you immune to knockback, Slow, Chill, and Immobilizing effects while it remains channeled."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Reel of Kattas",
+    "Slot": "Main-Hand",
+    "Skill": "Whirling Strike",
+    "Effect": "Whirlwind now restores energy and increases your Attack Speed after hitting an enemy suffering from a Bleed."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Solemn Crown",
+    "Slot": "Head",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker also increases your Attack Speed by 10%."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Stone and Kettle",
+    "Slot": "Shoulder",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker also reduces damage taken."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Headet Splitter",
+    "Slot": "Off-Hand",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker now increases your Movement Speed, greatly reduces damage taken, and reduces the duration of loss of control."
+  },
+  {
+    "Class": "Barbarian",
+    "Item": "Bloodseizer",
+    "Slot": "Off-hand",
+    "Skill": "Wrath of the Berserker",
+    "Effect": "Wrath of the Berserker now throws you into a Bloody Rage, increasing the damage you deal to Bleeding enemies while also granting you increased Movement Speed for each Bleeding enemy nearby."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Hungry Blades",
+    "Slot": "Off-Hand",
+    "Skill": "Summon Grizzly",
+    "Effect": "Your Summon Grizzly generates 2 Primal Power when it takes damage. Cannot occur more than once per second."
+  },
+  {
+    "Class": "Druid",
+    "Item": "Mudrooters",
+    "Slot": "Legs",
+    "Skill": "Summon Wolves",
+    "Effect": "Your Summon Wolves heal you for 30% of the damage they deal."
+  },
+  {
+    "Class": "Blood Knight",
+    "Item": "Dereliction",
+    "Slot": "Chest",
+    "Skill": "Wave of Blood",
+    "Effect": "Wave of Blood also reduces the Movement Speed of any enemies hit by 40% for 3 seconds."
   }
 ]
